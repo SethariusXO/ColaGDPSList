@@ -1,0 +1,24 @@
+{
+    "id": 265,
+    "name": "Cycles Third Coin",
+    "author": "Yoink",
+    "creators": ["Yoink"],
+    "verifier": "Yoink 240",
+    "verification": "https://www.youtube.com/watch?v=Kbe3u4IxQWs",
+    "percentToQualify": "100",
+    "coins": "3",
+    "records": [
+       {
+            "user": "vasi 120",
+            "link": "https://youtube.com/shorts/JoChaztZygg?si=H2DtMsYh2Bk9eJOv",
+            "percent": 100,
+            "cc": 3
+       },
+        {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=Kbe3u4IxQWs",
+            "percent": 100,
+            "cc": 3
+        }
+    ]
+}
