@@ -102,6 +102,10 @@ export default {
                     <p>
                         Click "Demon List Rules" to open the google doc
                     </p>
+                    <h3>Extra Info</h3>
+                    <p>
+                    cc is the abbreviation for Coins Collected
+                    </p>
                 </div>
             </div>
         </main>
