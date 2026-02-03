@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "coins": "0",
     "records": [
+        {
+            "user": "vasi 120",
+            "link": "https://youtu.be/4YsEmBsafg4?si=j7SusJ0c2w_mflVr",
+            "percent": 100,
+            "cc": 0,
+           "mobile": true
+       }
     ]
 }
