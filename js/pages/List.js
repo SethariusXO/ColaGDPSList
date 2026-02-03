@@ -44,7 +44,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Average Enjoyment</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p>{{ level.enjoyment }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
