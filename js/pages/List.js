@@ -106,6 +106,12 @@ export default {
                     <p>
                     cc is the abbreviation for Coins Collected
                     </p>
+                    <p>
+                    Average Enjoyment is worked out with the mean of everyone's "Enjoyment Rating"
+                    </p>
+                    <p>
+                    Average Enjoyment can only be calculated after atleast two people have submitted (verifications and progress are also counted)
+                    </p>
                 </div>
             </div>
         </main>
