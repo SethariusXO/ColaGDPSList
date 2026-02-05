@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="cc">
-                                <p>{{ record.cc }} CC</p>
+                                <p>{{ record.cc }}CC</p>
                             </td>
                         </tr>
                     </table>
