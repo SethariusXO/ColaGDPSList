@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="cc">
-                                <p>{{ record.cc }}cc</p>
+                                <p>{{ record.cc }}CC</p>
                             </td>
                         </tr>
                     </table>
@@ -104,7 +104,7 @@ export default {
                     </p>
                     <h3>Extra Info</h3>
                     <p>
-                    cc is the abbreviation for Coins Collected
+                    "CC" is the abbreviation for Coins Collected
                     </p>
                     <p>
                     Average Enjoyment is worked out with the mean of everyone's "Enjoyment Rating"
