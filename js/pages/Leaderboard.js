@@ -46,6 +46,8 @@ export default {
                         <h1>#{{ selected + 1 }} {{ entry.user }}Hz</h1>
                         <h3>{{ entry.total }} Points</h3>
                         <h2>{{ entry.completed.length + entry.verified.length}} Total</h3>
+                        <div>
+                        </div>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
