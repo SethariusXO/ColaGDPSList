@@ -44,9 +44,9 @@ export default {
                 <div class="player-container">
                     <div class="player">
                         <h1>#{{ selected + 1 }} {{ entry.user }}Hz</h1>
+                        <h2>{{ entry.completed.length + entry.verified.length}} Beaten In Total</h2>
                         <h3>{{ entry.total }} Points</h3>
-                        <h1>{{ entry.completed.length + entry.verified.length}} Beaten In Total</h1>
-                        <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
+                        <h3 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h3>
                         <table class="table">
                             <tr v-for="score in entry.verified">
                                 <td class="rank">
