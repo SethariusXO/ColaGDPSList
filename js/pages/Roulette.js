@@ -23,8 +23,8 @@ export default {
                     <div class="check">
                         <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
                         <label for="extended">Extended List</label>
-                        <p>(There is no Extended List yet)</p>
                     </div>
+                    <p>(There is no Extended List yet)</p>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
                 </form>
                 <p class="type-label-md" style="color: #aaa">
