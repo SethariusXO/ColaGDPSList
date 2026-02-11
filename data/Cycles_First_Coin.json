@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/SEk_SI6HJAM",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "9/10",
-    "victors": "6",
+    "enjoyment": "6.34/10",
+    "victors": "7",
     "records": [
        {
             "user": "Robsvault 120",
@@ -44,6 +44,12 @@
         {
             "user": "Krya12 60",
             "link": "https://www.youtube.com/watch?v=X62juR3m86Y",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "LukeGD 60",
+            "link": "https://youtu.be/8DLJYPXpgAs",
             "percent": 100,
             "cc": 0
         }
