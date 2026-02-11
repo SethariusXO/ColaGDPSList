@@ -1,0 +1,20 @@
+{
+    "id": 18,
+    "name": "Theory of Everything",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Robtop 60",
+    "verification": "https://www.youtube.com/watch?v=1YI4oUUiV80",
+    "percentToQualify": "100",
+    "coins": "3",
+    "enjoyment": "N/A",
+    "victors": "1",
+    "records": [
+        {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=4qEi6vlgMeY",
+            "percent": 100,
+            "cc": 3
+        }
+    ]
+}
