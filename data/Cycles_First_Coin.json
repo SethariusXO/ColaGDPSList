@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "6.34/10",
-    "victors": "7",
+    "victors": "8",
     "records": [
        {
             "user": "Robsvault 120",
@@ -52,6 +52,12 @@
             "link": "https://youtu.be/8DLJYPXpgAs",
             "percent": 100,
             "cc": 0
-        }
+        },
+        {
+                "user": "nickgiarovel 60",
+                "link": "https://youtu.be/MXm6sbFwDtw",
+                "percent": 100,
+                "cc": 0
+            }
     ]
 }
