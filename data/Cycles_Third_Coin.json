@@ -40,7 +40,8 @@
             "user": "ooink 120",
             "link": "https://m.youtube.com/shorts/P9hBeDUNHi4",
             "percent": 100,
-            "cc": 0
+            "cc": 0,
+            "mobile": true
         }
     ]
 }
