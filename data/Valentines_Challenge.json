@@ -10,5 +10,11 @@
     "enjoyment": "N/A",
     "victors": "0",
     "records": [
+        {
+            "user": "nickgiarovel",
+            "link": "https://www.youtube.com/watch?v=PpQxGXreT84",
+            "percent": 100,
+            "cc" 0
+        }
     ]
 }
