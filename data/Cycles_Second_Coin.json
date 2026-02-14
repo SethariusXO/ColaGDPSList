@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=JbT492i8zas",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6/10",
-    "victors": "3",
+    "enjoyment": "4.75/10",
+    "victors": "4",
     "records": [
         {
             "user": "IceOweni 60",
@@ -28,6 +28,11 @@
             "link": "https://www.youtube.com/watch?v=i4j06iHDMgg",
             "percent": 100,
             "cc": 0
-        }
+        },
+        {
+            "user": "ooink 120",
+            "link": "https://m.youtube.com/shorts/KfFY6YYoasE",
+            "percent": 100,
+            "cc": 0
     ]
 }
