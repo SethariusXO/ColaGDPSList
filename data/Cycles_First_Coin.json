@@ -63,7 +63,8 @@
             "user": "ogrupups 120",
             "link": "https://www.youtube.com/watch?v=Jivq13m1kAw",
             "percent": 100,
-            "cc": 0
+            "cc": 0,
+            "mobile": true
         }
     ]
 }
