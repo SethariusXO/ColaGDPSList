@@ -7,12 +7,18 @@
     "verification": "https://m.youtube.com/shorts/zZfHJWFUt4s",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4/10",
-    "victors": "1",
+    "enjoyment": "2.67/10",
+    "victors": "2",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=Nm_OUcogKOM",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "victor 240",
+            "link": "https://youtu.be/yag6U56d3pA",
             "percent": 100,
             "cc": 0
         }
