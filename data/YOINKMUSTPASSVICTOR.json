@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/nw8ssgUiCAA",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "7/10",
-    "victors": "2",
+    "enjoyment": "6.5/10",
+    "victors": "3",
     "records": [
       {
             "user": "victor 240",
@@ -21,6 +21,13 @@
             "link": "https://www.youtube.com/watch?v=6KD21q1OkUI",
             "percent": 100,
             "cc": 0
+        },
+        {
+            "user": "ooink 120",
+            "link": "https://m.youtube.com/shorts/b1CCKXphX4Q",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
         }
     ]
 }
