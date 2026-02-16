@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "7",
-    "victors": "2",
+    "victors": "3",
     "records": [
         {
             "user": "nickgiarovel 60",
@@ -19,6 +19,12 @@
         {
             "user": "ogrupups 120",
             "link": "https://www.youtube.com/watch?v=tShDEZ22oqY",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "victor 240",
+            "link": "https://youtu.be/DBEeyV3JYos",
             "percent": 100,
             "cc": 0
         }
