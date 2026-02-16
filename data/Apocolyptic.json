@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/CsHdAxyLpVg",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "7.25/10",
-    "victors": "9",
+    "enjoyment": "7.4/10",
+    "victors": "10",
     "records": [
         {
             "user": "Victor 240",
@@ -62,6 +62,12 @@
         {
             "user": "nickgiarovel 60",
             "link": "https://www.youtube.com/watch?v=oHnF1jdtg9A",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/shorts/zx634AE1nBE",
             "percent": 100,
             "cc": 0
         }
