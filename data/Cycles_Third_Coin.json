@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=FOxxwqnZmvc",
     "percentToQualify": "100",
     "coins": "3",
-    "enjoyment": "6.8/10",
-    "victors": "5",
+    "enjoyment": "6.5/10",
+    "victors": "6",
     "records": [
        {
             "user": "vasi 120",
@@ -42,6 +42,12 @@
             "percent": 100,
             "cc": 0,
             "mobile": true
+        },
+        {
+            "user": "NRubikk",
+            "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
+            "percent": 100,
+            "cc": 3
         }
     ]
 }
