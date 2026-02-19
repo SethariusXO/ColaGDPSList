@@ -7,14 +7,20 @@
     "verification": "https://www.youtube.com/watch?v=ACVyylgwo18",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "5/10",
-    "victors": "1",
+    "enjoyment": "4/10",
+    "victors": "2",
     "records": [
         {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/GFIGyu4QdX8",
                 "percent": 100,
                 "cc": 0
-         }
+         },
+        {
+            "user": "DavidShaft 240",
+            "link": "https://www.youtube.com/watch?v=LWoLZAVKQlY",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
