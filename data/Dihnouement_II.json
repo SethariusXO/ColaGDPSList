@@ -7,12 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=TZJ0qyECU-0",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "8/10",
-    "victors": "1",
+    "enjoyment": "7.34/10",
+    "victors": "2",
         "records": [
             {
                 "user": "ogrupups 120",
                 "link": "https://www.youtube.com/shorts/MHnYTtPBIk4",
+                "percent": 100,
+                "cc": 0
+            },
+            {
+                "user": "DavidShaft 240",
+                "link": "https://youtu.be/FNDdLcdEqIg",
                 "percent": 100,
                 "cc": 0
             }
