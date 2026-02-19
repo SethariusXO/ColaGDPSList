@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "5/10",
-    "victors": "9",
+    "victors": "10",
     "records": [
        {
             "user": "Robsvault 120",
@@ -62,6 +62,12 @@
         {
             "user": "ogrupups 120",
             "link": "https://www.youtube.com/watch?v=Jivq13m1kAw",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "NRubikk",
+            "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
             "percent": 100,
             "cc": 0
         }
