@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=5jWEBY7eBt4",
     "percentToQualify": "100",
     "coins": "1",
-    "enjoyment": "6.8/10",
-    "victors": "7",
+    "enjoyment": "6.84/10",
+    "victors": "8",
     "records": [
         {
             "user": "ErrorWinters 240",
@@ -52,6 +52,12 @@
             "link": "https://youtu.be/IgoLlfGx85s?si=5FAnP4omnCaCfRGA",
             "percent": 100,
             "cc": 1
+        },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/shorts/9DkPMW4yuSY",
+            "percent": 100,
+            "cc": 0
         }
     ]
 }
