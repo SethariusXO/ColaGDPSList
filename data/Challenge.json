@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "8/10",
-    "victors": "3",
+    "victors": "4",
     "records": [
         {
             "user": "Robsvault 120",
@@ -25,6 +25,12 @@
         {
             "user": "NRubikk 240",
             "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "Astro 144",
+            "link": "https://youtu.be/_i-9wi5gdgE?si=RD032rzbPB_MC_Mb",
             "percent": 100,
             "cc": 0
         }
