@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "1",
     "enjoyment": "7/10",
-    "victors": "3",
+    "victors": "4",
         "records": [
             {
             "user": "vasi 120",
@@ -28,6 +28,12 @@
                 "link": "https://www.youtube.com/watch?v=8eQCkb1443Q",
                 "percent": 100,
                 "cc": 1
+            },
+            {
+                "user": "ogrupups 120",
+                "link": "https://www.youtube.com/shorts/K9Gw8G-hM8k",
+                "percent": 100,
+                "cc": 0
             }
     ]
 }
