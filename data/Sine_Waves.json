@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=pF_kL3t-PlI",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "6.34/10",
-    "victors": "4",
+    "enjoyment": "6.25/10",
+    "victors": "5",
         "records": [
             {
                 "user": "Davidshaft 240",
@@ -31,6 +31,12 @@
             {
                 "user": "NRubikk 240",
                 "link": "https://youtu.be/aRF3-fsKI1M?si=bWxxEIQYIiLwx1Wu",
+                "percent": 100,
+                "cc": 0
+            },
+            {
+                "user": "Astro 144",
+                "link": "https://youtu.be/19ekMpyhGyw?si=XsNmGke87QJcJYPX",
                 "percent": 100,
                 "cc": 0
             }
