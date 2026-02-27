@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=GzsN-lam9ZQ",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6.38/10",
-    "victors": "10",
+    "enjoyment": "6.22/10",
+    "victors": "11",
     "records": [
         {
             "user": "Robsvault 120",
@@ -68,6 +68,12 @@
         {
             "user": "Astro 144",
             "link": "https://youtu.be/pQKFG-4cqyI?si=PiJo-Ov2UfAeprXn",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "Lucas531 165",
+            "link": "https://www.youtube.com/watch?v=2dK7JQ8WnIY&list=PLMBv-prjuyciloFUcK77Ac60wnUGuqVCe&index=3",
             "percent": 100,
             "cc": 0
         }
