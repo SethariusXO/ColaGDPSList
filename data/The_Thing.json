@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=duPSTu5g3LM",
     "percentToQualify": 100,
     "coins": "1",
-    "enjoyment": "7/10",
-    "victors": "4",
+    "enjoyment": "6.34/10",
+    "victors": "5",
         "records": [
             {
             "user": "vasi 120",
@@ -32,6 +32,12 @@
             {
                 "user": "ogrupups 120",
                 "link": "https://www.youtube.com/shorts/K9Gw8G-hM8k",
+                "percent": 100,
+                "cc": 0
+            },
+            {
+                "user": "Lucas531 165"
+                "link": "https://youtu.be/mt-mbyWTaPs?t=31",
                 "percent": 100,
                 "cc": 0
             }
