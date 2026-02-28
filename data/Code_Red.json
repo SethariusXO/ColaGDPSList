@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=3x4suOHpLnE",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "7.25/10",
-    "victors": "6",
+    "enjoyment": "7/10",
+    "victors": "7",
     "records": [
          {
                 "user": "Yoink 240",
@@ -45,6 +45,12 @@
                 "link": "https://www.youtube.com/watch?v=mdzOlIWcuMg",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/watch?v=KHn2GE0ndt0",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
