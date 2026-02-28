@@ -7,8 +7,14 @@
     "verification": "https://www.youtube.com/watch?v=ep9Ig2-18fw",
     "percentToQualify": 59,
     "coins": "0",
-    "enjoyment": "N/A",
-    "victors": "0",
+    "enjoyment": "7/10",
+    "victors": "1",
         "records": [
+            {
+                "user": "Lucas531 165"
+                "link": "https://www.youtube.com/watch?v=mt-mbyWTaPs&t=61s",
+                "percent": 100,
+                "cc": 0
+            }
     ]
 }
