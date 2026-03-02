@@ -112,6 +112,9 @@ export default {
                     <p>
                     Average Enjoyment can only be calculated after atleast two people have submitted (verifications and progress are also counted)
                     </p>
+                    <p>
+                    Level Points are rounded to 2 decimal places to match pointercrate
+                    </p>
                 </div>
             </div>
         </main>
