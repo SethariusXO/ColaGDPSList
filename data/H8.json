@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=Zfhb6bdvPgE",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "6.25/10",
-    "victors": "4",
+    "enjoyment": "7/10",
+    "victors": "5",
         "records": [
             {
                 "user": "nickgiarovel 60",
@@ -32,6 +32,12 @@
             {
                 "user": "Lucas531 165",
                 "link": "https://youtu.be/mt-mbyWTaPs",
+                "percent": 100,
+                "cc": 0
+            },
+            {
+                "user": "NRubikk 240",
+                "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
                 "percent": 100,
                 "cc": 0
             }
