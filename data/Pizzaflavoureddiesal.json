@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=gdD_PR_cOr8",
     "percentToQualify": "53",
     "coins": "0",
-    "enjoyment": "3.34/10",
-    "victors": "6",
+    "enjoyment": "4.29/10",
+    "victors": "7",
     "records": [
         {
             "user": "Robsvault 120",
@@ -46,6 +46,12 @@
                 "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+        {
+            "user": "DavidShaft 240",
+            "link": "https://youtu.be/267jE8Yo4Rw",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
