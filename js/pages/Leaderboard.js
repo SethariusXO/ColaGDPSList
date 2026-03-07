@@ -1,6 +1,5 @@
-import { fetchLeaderboard } from '../content.js';
+import { fetchLeaderboard, fetchEditors, fetchList } from '../content.js';
 import { localize } from '../util.js';
-import { fetchEditors, fetchList } from "../content.js";
 
 import Spinner from '../components/Spinner.js';
 
