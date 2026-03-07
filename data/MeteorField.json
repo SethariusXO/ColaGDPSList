@@ -1,0 +1,20 @@
+{
+    "id": 470,
+    "name": "MeteorField",
+    "author": "Davidshaft",
+    "creators": ["DavidShaft"],
+    "verifier": "DavidShaft 240",
+    "verification": "https://www.youtube.com/watch?v=-2fazu4a0fw",
+    "percentToQualify": 100,
+    "coins": "0",
+    "enjoyment": "8/10",
+    "victors": "1",
+        "records": [
+            {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=YYk_urDpztw",
+            "percent": 100,
+            "cc": 0
+            }
+    ]
+}
