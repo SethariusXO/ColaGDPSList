@@ -1,4 +1,4 @@
-import { fetchLeaderboard, fetchEditors, fetchList } from '../content.js';
+import { fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -93,15 +93,6 @@ export default {
             </div>
         </main>
     `,
-    data: () => ({
-        list: [],
-        editors: [],
-        loading: true,
-        selected: 0,
-        errors: [],
-        roleIconMap,
-        store
-    }),
     computed: {
         entry() {
             return this.leaderboard[this.selected];
