@@ -89,7 +89,7 @@ export default {
                         <p class="type-label-md">Credit to Prometheus for the <a href="https://tsl.pages.dev/" target="_blank">Website Layout</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3>List Editors</h3>
+                        <h3>List Credits</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -98,10 +98,6 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3><a href="https://1drv.ms/w/c/b19b33f01ec2ee80/IQCkuBLLosSCQrfft3LSOAlIAfgDw8V2CGvZyMtJjBzWxHA?e=QGaUcf" target="_blank">Demon List Rules</a></h3>
-                    <p>
-                        Click "Demon List Rules" to open the google doc
-                    </p>
                     <h3>Extra Info</h3>
                     <p>
                     "CC" is the abbreviation for Coins Collected
