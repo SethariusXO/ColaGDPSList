@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=9e7NDLV0CTE",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "7/10",
-    "victors": "5",
+    "enjoyment": "6.86/10",
+    "victors": "6",
         "records": [
             {
             "user": "ogrupups 120",
@@ -39,6 +39,12 @@
                 "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://www.youtube.com/watch?v=ppk6l4DU10U",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
