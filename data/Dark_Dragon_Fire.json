@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=CGkWG4mlPTQ",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "8.25/10",
-    "victors": "8",
+    "enjoyment": "8/10",
+    "victors": "9",
         "records": [
             {
                 "user": "Michael Storen 240",
@@ -57,6 +57,12 @@
                 "link": "https://www.youtube.com/watch?v=2cuvxbFwmns",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://www.youtube.com/watch?v=ppk6l4DU10U",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
