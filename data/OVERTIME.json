@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=eWI0EzrxxuA",
     "percentToQualify": "43",
     "coins": "1",
-    "enjoyment": "8.67/10",
-    "victors": "2",
+    "enjoyment": "9/10",
+    "victors": "3",
     "records": [
         {
             "user": "Lucas531 165",
@@ -21,6 +21,12 @@
             "link": "https://www.youtube.com/watch?v=kLBDHiWqi2U",
             "percent": 100,
             "cc": 0
-        }
+        },
+            {
+                "user": "vecspi 60",
+                "link": "https://youtu.be/XhRuoBmgRtc",
+                "percent": 100,
+                "cc": 0
+            }
     ]
 }
