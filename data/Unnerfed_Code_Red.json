@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=DhBYtVUpJxM",
     "percentToQualify": 100,
     "coins": "1",
-    "enjoyment": "5.6/10",
-    "victors": "6",
+    "enjoyment": "5.67/10",
+    "victors": "7",
         "records": [
             {
             "user": "Robsvault 120",
@@ -43,6 +43,12 @@
         {
             "user": "Delixity 160",
             "link": "https://www.youtube.com/watch?v=1lWtDAw-co8",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://www.youtube.com/watch?v=ppk6l4DU10U",
             "percent": 100,
             "cc": 0
         }
