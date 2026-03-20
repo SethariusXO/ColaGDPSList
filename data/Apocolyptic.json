@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/CsHdAxyLpVg",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6.25/10",
-    "victors": "13",
+    "enjoyment": "6.11/10",
+    "victors": "14",
     "records": [
         {
             "user": "Victor 240",
@@ -87,6 +87,12 @@
         {
             "user": "Astro 144",
             "link": "https://www.youtube.com/watch?v=O1v4G1R4UTk",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "Lucas531 165",
+            "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": 0
         }
