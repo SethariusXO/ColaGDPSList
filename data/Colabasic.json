@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=3lZzX-Mpc1c",
     "percentToQualify": "100",
     "coins": "3",
-    "enjoyment": "5.25/10",
-    "victors": "5",
+    "enjoyment": "5.2/10",
+    "victors": "6",
     "records": [
         {
             "user": "Robsvault 120",
@@ -40,6 +40,12 @@
             "link": "https://youtu.be/O1v4G1R4UTk?si=InKFprnybsm-V_qI",
             "percent": 100,
             "cc": 0
+        },
+        {
+            "user": "Lucas531 165",
+            "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
+            "percent": 100,
+            "cc": 2
         }
     ]
 }
