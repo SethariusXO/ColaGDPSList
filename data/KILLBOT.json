@@ -1,0 +1,20 @@
+{
+    "id": 489,
+    "name": "KILL BOT",
+    "author": "Robsvault",
+    "creators": ["Robsvault"],
+    "verifier": "Robsvault 120",
+    "verification": "https://www.youtube.com/watch?v=eNU9atFvdjc",
+    "percentToQualify": 100,
+    "coins": "0",
+    "enjoyment": "9/10",
+    "victors": "1",
+        "records": [
+        {
+            "user": "Lucas531 165",
+            "link": "https://www.youtube.com/watch?v=AZA-gLAkjJI",
+            "percent": 100,
+            "cc": 0
+        }
+    ]
+}
