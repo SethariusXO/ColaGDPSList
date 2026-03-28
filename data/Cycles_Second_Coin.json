@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=JbT492i8zas",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4.75/10",
-    "victors": "8",
+    "enjoyment": "4.78/10",
+    "victors": "9",
     "records": [
         {
             "user": "IceOweni 60",
@@ -59,6 +59,13 @@
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": 0
+        },
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
         }
     ]
 }
