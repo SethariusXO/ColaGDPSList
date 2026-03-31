@@ -7,8 +7,14 @@
     "verification": "https://youtu.be/7DGXp0_mlPM",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "N/A",
-    "victors": "0",
+    "enjoyment": "5.5/10",
+    "victors": "1",
     "records": [
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
+            "percent": 100,
+            "cc": 0
+        }
       ]
 }
