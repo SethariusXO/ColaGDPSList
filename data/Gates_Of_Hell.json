@@ -7,8 +7,8 @@
     "verification": "https://m.youtube.com/shorts/zZfHJWFUt4s",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4.43/10",
-    "victors": "5",
+    "enjoyment": "4.5/10",
+    "victors": "6",
     "records": [
         {
             "user": "Robsvault 120",
@@ -39,6 +39,13 @@
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": 0
+        },
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
         }
     ]
 }
