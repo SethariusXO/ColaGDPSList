@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/CsHdAxyLpVg",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6/10",
-    "victors": "15",
+    "enjoyment": "6.36/10",
+    "victors": "16",
     "records": [
         {
             "user": "Victor 240",
@@ -99,6 +99,13 @@
         {
             "user": "[Void] zNova 60",
             "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
+        },
+        {
+            "user": "FalseTeam 60",
+            "link": "https://streamable.com/llv9a9",
             "percent": 100,
             "cc": 0,
             "mobile": true
