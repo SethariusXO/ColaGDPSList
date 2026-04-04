@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/SEk_SI6HJAM",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "5.34/10",
-    "victors": "13",
+    "enjoyment": "5.8/10",
+    "victors": "14",
     "records": [
        {
             "user": "Robsvault 120",
@@ -86,6 +86,13 @@
         {
             "user": "[Void] zNova 60",
             "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
+        },
+        {
+            "user": "FalseTeam 60",
+            "link": "https://streamable.com/vcu58v",
             "percent": 100,
             "cc": 0,
             "mobile": true
