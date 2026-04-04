@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=JbT492i8zas",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4.78/10",
-    "victors": "9",
+    "enjoyment": "4.8/10",
+    "victors": "10",
     "records": [
         {
             "user": "IceOweni 60",
@@ -63,6 +63,13 @@
         {
             "user": "[Void] zNova 60",
             "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
+        },
+        {
+            "user": "FalseTeam 60",
+            "link": "https://streamable.com/tzikbw",
             "percent": 100,
             "cc": 0,
             "mobile": true
