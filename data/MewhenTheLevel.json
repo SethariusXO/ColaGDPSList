@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=T31FgpTv7B8",
     "percentToQualify": "100",
     "coins": "3",
-    "enjoyment": "10/10",
-    "victors": "2",
+    "enjoyment": "9.25/10",
+    "victors": "3",
     "records": [
         {
             "user": "Robsvault 120",
@@ -22,6 +22,12 @@
             "percent": 100,
             "cc": 0,
             "mobile": true
-        }
+        },
+        {
+                "user": "Michael Storen 240",
+                "link": "https://www.youtube.com/watch?v=Y3ufFOFTg3U",
+                "percent": 100,
+                "cc": 0
+            }
     ]
 }
