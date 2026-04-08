@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=FOxxwqnZmvc",
     "percentToQualify": "100",
     "coins": "3",
-    "enjoyment": "5.82/10",
-    "victors": "11",
+    "enjoyment": "5.34/10",
+    "victors": "12",
     "records": [
        {
             "user": "vasi 120",
@@ -80,6 +80,12 @@
             "percent": 100,
             "cc": 3,
             "mobile": true
-        }
+        },
+        {
+                "user": "Michael Storen 240",
+                "link": "https://youtu.be/FdoHIgVFSGk",
+                "percent": 100,
+                "cc": 0
+            }
     ]
 }
