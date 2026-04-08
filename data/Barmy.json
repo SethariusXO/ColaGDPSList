@@ -8,13 +8,20 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "6/10",
-    "victors": "1",
+    "victors": "2",
     "records": [
         {
             "user": "Lucas531 165",
             "link": "https://www.youtube.com/watch?v=12_9iNCn2-0",
             "percent": 100,
             "cc": 0
+        },
+        {
+            "user": "[Void] zNova 60",
+            "link": "https://www.youtube.com/watch?v=CVYu7X_y0mE",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
         }
     ]
 }
