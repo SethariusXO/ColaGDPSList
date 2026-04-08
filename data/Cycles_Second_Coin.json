@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=JbT492i8zas",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4.8/10",
-    "victors": "10",
+    "enjoyment": "4.91/10",
+    "victors": "11",
     "records": [
         {
             "user": "IceOweni 60",
@@ -73,6 +73,12 @@
             "percent": 100,
             "cc": 0,
             "mobile": true
-        }
+        },
+        {
+                "user": "Michael Storen 240",
+                "link": "https://www.youtube.com/watch?v=Y3ufFOFTg3U",
+                "percent": 100,
+                "cc": 0
+            }
     ]
 }
