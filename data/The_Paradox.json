@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=AqFkl74QTks",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "5/10",
-    "victors": "4",
+    "enjoyment": "3.75/10",
+    "victors": "5",
     "records": [
         {
             "user": "Robsvault 120",
@@ -34,6 +34,12 @@
             "percent": 100,
             "cc": 0,
             "mobile": true
+        },
+        {
+            "user": "[Void] NRubikk 240",
+            "link": "https://youtu.be/ezv16w9vi0w?si=MdQfXP7C5d0ll5oH",
+            "percent": 100,
+            "cc": 0
         }
     ]
 }
