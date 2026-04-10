@@ -57,7 +57,7 @@ export default {
                     </ul>
                     <h2>Records ({{ level.victors }})</h2>
                     <p>
-                    test
+                    Points When Completed: {{ level.percentToQualify }} 
                     </p>
                     <p v-if="selected + 1 <= 75">List Percentage: <strong>{{ level.percentToQualify }}%</strong></p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
