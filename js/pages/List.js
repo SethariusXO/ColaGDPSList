@@ -98,6 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Check out our youtube channel <a href="https://www.youtube.com/channel/UCsWrgEXq34GyLqK8KJetKbg" target="_blank">HERE</a></h3>
                     <h3>Extra Info</h3>
                     <p>
                     "CC" is the abbreviation for Coins Collected
