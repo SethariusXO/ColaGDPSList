@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "1",
     "enjoyment": "6.67/10",
-    "victors": "8",
+    "victors": "7",
         "records": [
             {
             "user": "vasi 120",
@@ -42,14 +42,8 @@
                 "cc": 0
             },
         {
-            "user": "[Void] NRubikk 240",
+            "user": "NRubikk 240",
             "link": "https://www.youtube.com/watch?v=Z5IU5oKI1ug",
-            "percent": 100,
-            "cc": 0
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
             "percent": 100,
             "cc": 0
         },
