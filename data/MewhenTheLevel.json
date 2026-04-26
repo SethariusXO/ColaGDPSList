@@ -8,20 +8,13 @@
     "percentToQualify": "100",
     "coins": "3",
     "enjoyment": "8/10",
-    "victors": "5",
+    "victors": "4",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=YKQpXE8o11E",
             "percent": 100,
             "cc": 0
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://www.youtube.com/watch?v=Oi7h2Cj8mTQ",
-            "percent": 100,
-            "cc": 0,
-            "mobile": true
         },
         {
                 "user": "Michael Storen 240",
@@ -36,7 +29,7 @@
             "cc": 0
         },
             {
-                "user": "[Void] NRubikk 240",
+                "user": "NRubikk 240",
                 "link": "https://www.youtube.com/watch?v=ezv16w9vi0w",
                 "percent": 100,
                 "cc": 0
