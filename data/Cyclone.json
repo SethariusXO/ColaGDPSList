@@ -1,21 +1,15 @@
 {
     "id": 611,
     "name": "Cyclone",
-    "author": "[Void] zNova",
-    "creators": ["[Void] zNova"],
-    "verifier": "[Void] zNova 60",
-    "verification": "https://www.youtube.com/watch?v=5lPXtx30xhA",
+    "author": "zNova",
+    "creators": ["zNova"],
+    "verifier": "Lucas531 165",
+    "verification": "https://www.youtube.com/watch?v=iYb6yOf77IQ",
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "5/10",
-    "victors": "2",
+    "victors": "1",
     "records": [
-            {
-                "user": "Lucas531 165",
-                "link": "https://www.youtube.com/watch?v=iYb6yOf77IQ",
-                "percent": 100,
-                "cc": 0
-            },
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=HyFi2GpQueI",
