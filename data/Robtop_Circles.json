@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "1",
     "enjoyment": "7.71/10",
-    "victors": "10",
+    "victors": "9",
     "records": [
         {
             "user": "DavidShaft 240",
@@ -48,7 +48,7 @@
             "cc": 0
         },
         {
-            "user": "[Void] NRubikk 240",
+            "user": "NRubikk 240",
             "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
             "percent": 100,
             "cc": 0
@@ -64,13 +64,6 @@
             "link": "https://www.youtube.com/watch?v=12_9iNCn2-0",
             "percent": 100,
             "cc": 1
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
-            "percent": 100,
-            "cc": 0,
-            "mobile": true
         }
     ]
 }
