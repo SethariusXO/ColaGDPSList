@@ -11,9 +11,29 @@
     },
     {
         "role": "helper",
-        "name": "Lucas531 (List Helper)",
+        "name": "Lucas531 (List Mod)",
         "link": "https://www.youtube.com/@Lucas531_real"
     },
+    {
+        "role": "helper",
+        "name": "LukeGD (List Mod)",
+        "link": "https://www.youtube.com/channel/UC1K0YrzO9xfVjjTXYVhOsMg"
+    },
+    {
+        "role": "trial",
+        "name": "Nrubikk (Placement Council)",
+        "link": "https://www.youtube.com/@NRubikk"
+    },
+    {
+        "role": "trial",
+        "name": "Lucas531 (Placement Council)",
+        "link": "https://www.youtube.com/@Lucas531_real"
+    },
+    {
+        "role": "trial",
+        "name": "ogrupups (Placement Council)",
+        "link": "https://www.youtube.com/@razrabRealLifes/shorts"
+    }
     {
         "role": "dev",
         "name": "Robsvault (Developer)",
