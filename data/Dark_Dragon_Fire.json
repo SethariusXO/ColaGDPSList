@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "0",
     "enjoyment": "7.2/10",
-    "victors": "10",
+    "victors": "9",
         "records": [
             {
                 "user": "Michael Storen 240",
@@ -47,7 +47,7 @@
                 "cc": 0
             },
             {
-                "user": "[Void] NRubikk 240",
+                "user": "NRubikk 240",
                 "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
                 "percent": 100,
                 "cc": 0
@@ -58,12 +58,6 @@
                 "percent": 100,
                 "cc": 0
             },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://www.youtube.com/watch?v=ppk6l4DU10U",
-            "percent": 100,
-            "cc": 0
-        },
             {
                 "user": "DriftyBug 240",
                 "link": "https://www.youtube.com/watch?v=p63c-sSfYuo",
