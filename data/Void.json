@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "1",
     "enjoyment": "6.25/10",
-    "victors": "3",
+    "victors": "2",
     "records": [
         {
             "user": "Robsvault 120",
@@ -16,14 +16,8 @@
             "percent": 100,
             "cc": 1
         },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://www.youtube.com/watch?v=bDTU-US8d10",
-            "percent": 100,
-            "cc": 0
-        },
             {
-                "user": "[Void] NRubikk 240",
+                "user": "NRubikk 240",
                 "link": "https://www.youtube.com/watch?v=ezv16w9vi0w",
                 "percent": 100,
                 "cc": 0
