@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "0",
     "enjoyment": "6/10",
-    "victors": "6",
+    "victors": "5",
         "records": [
             {
                 "user": "ogrupups 120",
@@ -23,7 +23,7 @@
                 "cc": 0
             },
             {
-                "user": "[Void] NRubikk 240",
+                "user": "NRubikk 240",
                 "link": "https://youtu.be/aRF3-fsKI1M?si=bWxxEIQYIiLwx1Wu",
                 "percent": 100,
                 "cc": 0
@@ -37,12 +37,6 @@
         {
             "user": "Delixity 160",
             "link": "https://www.youtube.com/watch?v=NO_BFtHexvc",
-            "percent": 100,
-            "cc": 0
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://www.youtube.com/watch?v=ppk6l4DU10U",
             "percent": 100,
             "cc": 0
         }
