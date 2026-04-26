@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "4.91/10",
-    "victors": "11",
+    "victors": "10",
     "records": [
         {
             "user": "IceOweni 60",
@@ -37,7 +37,7 @@
             "mobile": true
         },
         {
-            "user": "[Void] NRubikk 240",
+            "user": "NRubikk 240",
             "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
             "percent": 100,
             "cc": 0
@@ -59,13 +59,6 @@
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": 0
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://youtu.be/MA1FuUeNPDc?si=eIoPF95M2ALJF5qN",
-            "percent": 100,
-            "cc": 0,
-            "mobile": true
         },
         {
             "user": "FalseTeam 60",
