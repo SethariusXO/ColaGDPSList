@@ -8,10 +8,10 @@
     "percentToQualify": "100",
     "coins": "2",
     "enjoyment": "8/10",
-    "victors": "3",
+    "victors": "2",
     "records": [
             {
-                "user": "[Void] NRubikk 240",
+                "user": "NRubikk 240",
                 "link": "https://youtu.be/FKlKaeVe574",
                 "percent": 100,
                 "cc": 0
@@ -21,13 +21,6 @@
             "link": "https://www.youtube.com/watch?v=LGKeHsYt0Wk",
             "percent": 100,
             "cc": 2
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://youtu.be/NkYeLd0j4PA?si=1zlNbXBkn6n55cKx",
-            "percent": 100,
-            "cc": 0,
-            "mobile": true
         }
     ]
 }
