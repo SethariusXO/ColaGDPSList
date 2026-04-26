@@ -1,26 +1,20 @@
 {
     "id": 404,
     "name": "Ad Nihilum",
-    "author": "[Void] NRubikk",
-    "creators": ["[Void] NRubikk"],
-    "verifier": "[Void] NRubikk 240",
+    "author": "NRubikk",
+    "creators": ["NRubikk"],
+    "verifier": "NRubikk 240",
     "verification": "https://youtu.be/FgWVQRJM81o?is=KtxHD7iPJFAx6KGv",
     "percentToQualify": "54",
     "coins": "0",
     "enjoyment": "9",
-    "victors": "2",
+    "victors": "1",
     "records": [
             {
                 "user": "Lucas531 165",
                 "link": "https://www.youtube.com/watch?v=vYzTdn-1oJA",
                 "percent": 100,
                 "cc": 0
-            },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://www.youtube.com/watch?v=OXKveyQVJj8",
-            "percent": 100,
-            "cc": 0
-        }
+            }
       ]
 }
