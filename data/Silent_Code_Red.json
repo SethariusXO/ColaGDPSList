@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "0",
     "enjoyment": "2.75/10",
-    "victors": "4",
+    "victors": "3",
         "records": [
             {
             "user": "Robsvault 120",
@@ -17,7 +17,7 @@
             "cc": 0
             },
             {
-                "user": "[Void] NRubikk 240",
+                "user": "NRubikk 240",
                 "link": "https://youtu.be/aRF3-fsKI1M?si=bWxxEIQYIiLwx1Wu",
                 "percent": 100,
                 "cc": 0
@@ -25,12 +25,6 @@
         {
             "user": "Lucas531 165",
             "link": "https://www.youtube.com/watch?v=12_9iNCn2-0",
-            "percent": 100,
-            "cc": 0
-        },
-        {
-            "user": "[Void] zNova 60",
-            "link": "https://www.youtube.com/watch?v=ajyA6jAcLJ0",
             "percent": 100,
             "cc": 0
         }
