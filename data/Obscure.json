@@ -1,21 +1,15 @@
 {
     "id": 617,
     "name": "OBSCURE",
-    "author": "[Void] zNova",
-    "creators": ["[Void] zNova"],
-    "verifier": "[Void] zNova 60",
-    "verification": "https://www.youtube.com/watch?v=esw-4PuIgNA",
+    "author": "zNova",
+    "creators": ["zNova"],
+    "verifier": "Robsvault 120",
+    "verification": "https://www.youtube.com/watch?v=YRkdZ4Eb0cw",
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "5.34/10",
-    "victors": "2",
+    "victors": "1",
     "records": [
-        {
-            "user": "Robsvault 120",
-            "link": "https://www.youtube.com/watch?v=YRkdZ4Eb0cw",
-            "percent": 100,
-            "cc": 0
-        },
         {
             "user": "Decay 165",
             "link": "https://www.youtube.com/watch?v=fAAIZ991MQs&t=135s",
