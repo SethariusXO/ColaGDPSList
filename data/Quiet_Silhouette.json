@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=gAZnekHkfys",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "5.89/10",
-    "victors": "8",
+    "enjoyment": "6/10",
+    "victors": "9",
         "records": [
             {
             "user": "ErrorWinters 240",
@@ -55,6 +55,12 @@
         {
             "user": "TheBarcode 60",
             "link": "https://www.youtube.com/watch?v=bgZqR9oREg4",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/shorts/yl2VaC6tvX4",
             "percent": 100,
             "cc": 0
         }
