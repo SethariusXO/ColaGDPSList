@@ -1,0 +1,26 @@
+{
+    "id": 632,
+    "name": "Nuclear wave",
+    "author": "imemi",
+    "creators": ["imemi"],
+    "verifier": "TheBarcode 60",
+    "verification": "https://youtu.be/7ZWx1FrqC7Y",
+    "percentToQualify": "100",
+    "coins": "0",
+    "enjoyment": "4.67/10",
+    "victors": "2",
+    "records": [
+            {
+                "user": "boofer 144",
+                "link": "https://www.youtube.com/watch?v=-L6Xxhup0_0",
+                "percent": 100,
+                "cc": 0
+            },
+          {
+                "user": "Robsvault 120",
+                "link": "https://www.youtube.com/watch?v=AxkMrfmpvBA&t=70s",
+                "percent": 100,
+                "cc": 0
+            }
+      ]
+}
