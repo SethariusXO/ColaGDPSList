@@ -12,6 +12,11 @@ export default {
             type: String,
             required: true,
         },
+        tags: {
+            type: Array,
+            required: false,
+        },
+        },
     },
     template: `
         <div class="level-authors">
