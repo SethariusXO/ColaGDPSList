@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=wZ9f95m62ZM",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4.67/10",
-    "victors": "2",
+    "enjoyment": "5.2/10",
+    "victors": "3",
     "records": [
         {
             "user": "Lucas531 165",
@@ -19,6 +19,12 @@
         {
             "user": "Nrubikk 240",
             "link": "https://www.youtube.com/watch?v=FKlKaeVe574",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/watch?v=lCVFSV5tJKs&t=400s",
             "percent": 100,
             "cc": 0
         }
