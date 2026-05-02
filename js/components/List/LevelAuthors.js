@@ -49,9 +49,9 @@ export default {
                 <span>{{ author }}</span>
             </p>
             </template>
-            <div class="type-title-sm">Publisher</div>
+            <div class="type-title-sm">Tags</div>
             <p class="type-body">
-                <span>{{ author }}</span>
+                <span>{{ tags }}</span>
                 </p>
         </div>
     `,
