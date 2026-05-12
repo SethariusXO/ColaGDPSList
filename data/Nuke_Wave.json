@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "6/10",
-    "victors": "2",
+    "victors": "3",
     "tags": "Medium, Chokepoints, Wave",
     "records": [
         {
@@ -22,6 +22,12 @@
                 "link": "https://www.youtube.com/watch?v=AxkMrfmpvBA",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+            {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/shorts/ognFsy1ItR8",
+            "percent": 100,
+            "cc": 0
+        }
       ]
 }
