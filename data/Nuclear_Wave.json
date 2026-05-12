@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/7ZWx1FrqC7Y",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "4.67/10",
-    "victors": "2",
+    "enjoyment": "6/10",
+    "victors": "3",
     "tags": "Medium, Chokepoints, Wave",
     "records": [
             {
@@ -22,6 +22,12 @@
                 "link": "https://www.youtube.com/watch?v=AxkMrfmpvBA&t=70s",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+        {
+            "user": "NRubikk 240",
+            "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=540s",
+            "percent": 100,
+            "cc": 0
+        }
       ]
 }
