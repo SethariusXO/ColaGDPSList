@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/ykVob55RddE",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6.8/10",
-    "victors": "3",
+    "enjoyment": "6.34/10",
+    "victors": "4",
     "tags": "Short, High CPS, Nerve Control, Wave",
     "records": [
         {
@@ -28,6 +28,12 @@
                 "link": "https://www.youtube.com/watch?v=DeP4jq_1JKg",
                 "percent": 100,
                 "cc": 0
-            }
+            },
+        {
+            "user": "NRubikk 240",
+            "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=221s",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
