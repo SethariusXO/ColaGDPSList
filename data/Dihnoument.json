@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=GzsN-lam9ZQ",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6.5/10",
+    "enjoyment": "6.31/10",
     "victors": "13",
     "tags": "Short, Nerve Control, Wave",
     "records": [
@@ -87,6 +87,13 @@
         {
             "user": "FalseTeam 60",
             "link": "https://streamable.com/vcu58v",
+            "percent": 100,
+            "cc": 0,
+            "mobile": true
+        },
+        {
+            "user": "AtomiX 60",
+            "link": "https://www.youtube.com/watch?v=xwCa-heH52s&t=220s",
             "percent": 100,
             "cc": 0,
             "mobile": true
