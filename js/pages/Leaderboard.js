@@ -23,6 +23,9 @@ export default {
                     <p class="error" v-if="err.length > 0">
                         Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
                     </p>
+                    <img
+                        :src="store.dark ? '/assets/crown-dark.svg' : '/assets/crown.svg'"
+                        />
                 </div>
                 <div class="board-container">
                     <table class="board">
