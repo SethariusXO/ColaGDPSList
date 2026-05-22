@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=YRkdZ4Eb0cw",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6/10",
-    "victors": "1",
+    "enjoyment": "6.4/10",
+    "victors": "2",
     "tags": "Medium, Ship, Wave",
     "records": [
          {
@@ -16,6 +16,12 @@
             "link": "https://www.youtube.com/watch?v=0zJVnIzUoAs",
             "percent": 100,
             "cc": 0
-         }
+         },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/shorts/cfT0lwRQitw",
+            "percent": 100,
+            "cc": 0
+        }
     ]
 }
