@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/kfkVNbaEVcA",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "8.5/10",
-    "victors": "2",
+    "enjoyment": "8.4/10",
+    "victors": "3",
     "tags": "Medium, Memory, Cube",
     "records": [
         {
@@ -20,6 +20,12 @@
         {
             "user": "NRubikk 240",
             "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=103s",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "ogrupups 120",
+            "link": "https://www.youtube.com/shorts/EyFxzObr46s",
             "percent": 100,
             "cc": 0
         }
