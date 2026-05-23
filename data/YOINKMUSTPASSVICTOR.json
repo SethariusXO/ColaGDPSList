@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/nw8ssgUiCAA",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "6/10",
-    "victors": "7",
+    "enjoyment": "6.2/10",
+    "victors": "8",
     "tags": "Short, Timings, Overall",
     "records": [
       {
@@ -51,6 +51,12 @@
         {
             "user": "Lucas531 165",
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "Asta 60",
+            "link": "https://www.youtube.com/watch?v=yTe4y3fpNlQ",
             "percent": 100,
             "cc": 0
         }
