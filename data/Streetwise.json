@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=5jWEBY7eBt4",
     "percentToQualify": "100",
     "coins": "1",
-    "enjoyment": "6.63/10",
-    "victors": "9",
+    "enjoyment": "5.89/10",
+    "victors": "10",
     "tags": "Medium, Timings, Overall",
     "records": [
         {
@@ -65,6 +65,12 @@
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": 1
+        },
+        {
+            "user": "Asta 60",
+            "link": "https://www.youtube.com/shorts/lvbK0Cws3cg",
+            "percent": 100,
+            "cc": 0
         }
     ]
 }
