@@ -1,5 +1,6 @@
-import { fetchLeaderboard } from '../content.js';
+import { fetchLeaderboard, fetchEditors } from '../content.js';
 import { localize } from '../util.js';
+
 
 import Spinner from '../components/Spinner.js';
 
@@ -88,6 +89,25 @@ export default {
                                 </td>
                             </tr>
                         </table>
+                    </div>
+                </div>
+                <div class="meta-container">
+                <div class="meta">
+                    <div class="errors" v-show="errors.length > 0">
+                        <p class="error" v-for="error of errors">{{ error }}</p>
+                    </div>
+                    <div class="og">
+                        <p class="type-label-md">Credit to Prometheus for the <a href="https://tsl.pages.dev/" target="_blank">Website Layout</a></p>
+                    </div>
+                    <template v-if="editors">
+                        <h3>List Credits</h3>
+                        <ol class="editors">
+                            <li v-for="editor in editors">
+                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
+                                <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
+                                <p v-else>{{ editor.name }}</p>
+                            </li>
+                        </ol>
                     </div>
                 </div>
             </div>
