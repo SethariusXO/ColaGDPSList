@@ -91,8 +91,6 @@ export default {
                         </table>
                     </div>
                 </div>
-                <div class="meta-container">
-                <div class="meta">
                     <template v-if="editors">
                         <h3>List Credits</h3>
                         <ol class="editors">
