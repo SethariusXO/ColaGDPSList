@@ -99,6 +99,9 @@ export default {
                         </table>
                     </div>
                 </div>
+                    <div>
+                    <p class="type-label-md>Hello Robsvault here</p>
+                    </div>
                     <template v-if="editors">
                         <h3>List Credits</h3>
                         <ol class="editors">
