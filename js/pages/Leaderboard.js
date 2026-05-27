@@ -91,6 +91,9 @@ export default {
                         </table>
                     </div>
                 </div>
+                <div class="og">
+                        <p class="type-label-md">Credit to Prometheus for the <a href="https://tsl.pages.dev/" target="_blank">Website Layout</a></p>
+                    </div>
                     <template v-if="editors">
                         <h3>List Credits</h3>
                         <ol class="editors">
