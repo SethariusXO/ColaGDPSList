@@ -1,4 +1,4 @@
-import { fetchLeaderboard, fetchEditors } from '../content.js';
+import { fetchEditors, fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
 
 
