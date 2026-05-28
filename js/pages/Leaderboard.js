@@ -100,7 +100,7 @@ export default {
                     </div>
                 </div>
                     <div class="meta-container">
-                        <p>Hello Robsvault here</p>
+                        <template v-if="editors">
                         <h3>List Credits</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
@@ -109,6 +109,7 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
+                        </template>
                     </div>
                     </div>
                 </div>
