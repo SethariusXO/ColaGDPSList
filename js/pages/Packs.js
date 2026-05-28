@@ -11,7 +11,7 @@ export default {
         <main v-else class="page-packs">
             <div class="packs-container">
                 <table class="packs" v-if="packs">
-                    <tr v-for="([pack, err], i) in pack">
+                    <tr v-for="([level, err], i) in pack">
                         <td class="soon">
                             <p>Coming Soon!</p>
                         </td>
