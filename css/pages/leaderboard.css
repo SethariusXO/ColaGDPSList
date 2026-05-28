@@ -28,7 +28,8 @@
     padding-block: 2rem;
 }
 .page-leaderboard .meta-container {
-    grid-row: 3;
+    grid-row: 1;
+    grid-column: 1 / span 2;
 }
 .page-leaderboard .board-container {
     padding-inline: 1rem;
