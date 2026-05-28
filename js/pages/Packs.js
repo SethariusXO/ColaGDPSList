@@ -9,11 +9,15 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-packs">
-            <div class="list-container">
+            <div class="page-container">
                 <table class="packs" v-if="packs">
                     <tr v-for="([pack, err], i) in pack">
                         <td class="soon">
                             <p>Coming Soon!</p>
-                </div>
-    ',
-};
+                        </td>
+                    </tr>
+                </table>
+            </div>
+          </main>
+     `,
+  }
