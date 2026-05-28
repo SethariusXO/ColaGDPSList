@@ -99,8 +99,8 @@ export default {
                         </table>
                     </div>
                 </div>
-                    <div>
-                    <h1 class="type-label-md>Hello Robsvault here</h1>
+                    <div class="meta-container">
+                        <h1>Hello Robsvault here</h1>
                     </div>
                     <template v-if="editors">
                         <h3>List Credits</h3>
