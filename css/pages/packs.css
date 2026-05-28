@@ -1,3 +1,6 @@
+.page-packs .page-packs {
+    background-color: #212121;
+}
 .page-packs .packs-container {
     background-color: var(--color-background);
     padding-block: 2rem;
