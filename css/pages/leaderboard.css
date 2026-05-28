@@ -27,9 +27,12 @@
     grid-row: 2;
     padding-block: 2rem;
 }
+.page-leaderboard .player-container {
+    padding-inline: 1rem;
+}
 .page-leaderboard .meta-container {
     grid-row: 1;
-    grid-column: 3 / span 2;
+    padding-right: 2rem;
 }
 .page-leaderboard .board-container {
     padding-inline: 1rem;
