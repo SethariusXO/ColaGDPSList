@@ -15,5 +15,4 @@ export default {
                         <td class="soon">
                             <p>Coming Soon!</p>
                 </div>
-            </div>
 ',
