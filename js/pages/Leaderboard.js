@@ -13,15 +13,15 @@ const roleIconMap = {
 };
 
 export default {
-    components: {
-        Spinner,
-        LevelAuthors
-    },
+    components: { Spinner, LevelAuthors },
     data: () => ({
         leaderboard: [],
+        editors: [],
         loading: true,
         selected: 0,
         err: [],
+        roleIconMap,
+        store
     }),
     template: `
         <main v-if="loading">
