@@ -100,7 +100,7 @@ export default {
                     </div>
                 </div>
                     <div class="meta-container">
-                        <h1>Hello Robsvault here</h1>
+                        <p>Hello Robsvault here</p>
                     </div>
                     <template v-if="editors">
                         <h3>List Credits</h3>
