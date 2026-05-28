@@ -23,7 +23,8 @@
     color: var(--color-on-error);
 }
 .page-leaderboard .board-container,
-.page-leaderboard .player-container {
+.page-leaderboard .player-container,
+.page-leaderboard .meta-container {
     grid-row: 2;
     padding-block: 2rem;
 }
