@@ -100,7 +100,7 @@ export default {
                     </div>
                 </div>
                     <div>
-                    <p class="type-label-md>Hello Robsvault here</p>
+                    <h1 class="type-label-md>Hello Robsvault here</h1>
                     </div>
                     <template v-if="editors">
                         <h3>List Credits</h3>
