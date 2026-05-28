@@ -9,7 +9,7 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-packs">
-            <div class="page-container">
+            <div class="packs-container">
                 <table class="packs" v-if="packs">
                     <tr v-for="([pack, err], i) in pack">
                         <td class="soon">
