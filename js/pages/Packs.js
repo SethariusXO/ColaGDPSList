@@ -3,7 +3,7 @@ import { store } from "../main.js";
 import Spinner from "../components/Spinner.js";
 
 export default {
-    components: { Spinner, LevelAuthors },
+    components: { Spinner },
     template: `
         <main v-if="loading">
             <Spinner></Spinner>
