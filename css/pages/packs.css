@@ -10,5 +10,6 @@
 }
 .page-packs .comingsoon-container .pack {
     text-align: center;
-    padding-top: 5rem;
+    padding-top: 10rem;
+    border: 3px solid red;
 }
