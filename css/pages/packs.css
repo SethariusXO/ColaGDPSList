@@ -8,3 +8,6 @@
 .page-packs .packs-container {
     padding-inline: 1rem;
 }
+.page-packs .comingsoon-container .pack {
+    column-gap: 2rem;
+}
