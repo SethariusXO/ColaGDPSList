@@ -18,6 +18,11 @@ export default {
                     </tr>
                 </table>
             </div>
-          </main>
-     `,
-  }
+            <div class="comingsoon-container">
+                <div class="pack" v-if="pack">
+                    <p>Coming Soon!</p>
+                </div>
+            </div>
+      </main>
+  `,
+}
