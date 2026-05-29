@@ -18,7 +18,7 @@ export default {
                 </table>
             </div>
             <div class="comingsoon-container">
-                <div class="pack" v-if="pack">
+                <div class="pack">
                     <h1>Coming Soon!</h1>
                 </div>
             </div>
