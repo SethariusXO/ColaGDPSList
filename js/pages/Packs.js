@@ -19,7 +19,9 @@ export default {
             </div>
             <div class="comingsoon-container">
                 <div class="pack">
-                    <h1>Coming Soon!</h1>
+                    <div>
+                        <h1>Coming Soon!</h1>
+                    </div>
                 </div>
             </div>
       </main>
