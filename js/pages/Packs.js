@@ -19,7 +19,7 @@ export default {
             </div>
             <div class="comingsoon-container">
                 <div class="pack" v-if="pack">
-                    <p>Coming Soon!</p>
+                    <h1>Coming Soon!</h1>
                 </div>
             </div>
       </main>
