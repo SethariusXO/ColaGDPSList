@@ -1,4 +1,3 @@
-import { store } from "../main.js";
 
 import Spinner from "../components/Spinner.js";
 
