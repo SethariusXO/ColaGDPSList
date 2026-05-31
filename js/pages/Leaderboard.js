@@ -1,3 +1,4 @@
+import { store } from "../main.js";
 import { fetchEditors, fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
 
