@@ -18,6 +18,7 @@ export default {
      },
     data: () => ({
         leaderboard: [],
+        editors: [],
         loading: true,
         selected: 0,
         err: [],
