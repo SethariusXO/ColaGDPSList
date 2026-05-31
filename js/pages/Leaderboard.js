@@ -106,7 +106,6 @@ export default {
                             <div class="og">
                                 <p class="type-label-md">Credit to Prometheus for the <a href="https://tsl.pages.dev/" target="_blank">Website Layout</a></p>
                             </div>
-                            <div>
                         <div v-if="editors">
                         <h3>List Credits</h3>
                         <ol class="editors">
@@ -116,7 +115,6 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
-                        </div>
                         </div>
                     </div>
                 </div>
