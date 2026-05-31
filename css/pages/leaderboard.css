@@ -103,6 +103,7 @@
 .page-leaderboard .level-container .level .records a:hover {
     text-decoration: underline;
     color: var(--color-on-link);
+    gap: 2rem;
 }
 .page-leaderboard .meta {
     display: flex;
