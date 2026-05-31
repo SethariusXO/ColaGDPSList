@@ -23,7 +23,8 @@ export default {
         loading: true,
         selected: 0,
         err: [],
-        roleIconMap
+        roleIconMap,
+        store
     }),
     template: `
         <main v-if="loading">
