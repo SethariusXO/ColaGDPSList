@@ -21,6 +21,7 @@ export default {
         loading: true,
         selected: 0,
         err: [],
+        roleIconMap
     }),
     template: `
         <main v-if="loading">
