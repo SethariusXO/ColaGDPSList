@@ -15,7 +15,6 @@ const roleIconMap = {
 export default {
     components: {
     Spinner,
-    LevelAuthors
      },
     data: () => ({
         leaderboard: [],
