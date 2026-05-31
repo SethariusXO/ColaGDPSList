@@ -130,6 +130,7 @@ export default {
     },
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
+        this.editors = await fetchEditors();
         this.leaderboard = leaderboard;
         this.err = err;
         // Hide loading spinner
