@@ -29,6 +29,7 @@
 }
 .page-leaderboard .player-container {
     padding-inline: 2rem;
+    padding: 30px;
 }
 .page-leaderboard .meta-container {
     grid-row: 2;
