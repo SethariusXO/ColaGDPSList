@@ -106,12 +106,19 @@ export default {
                     <div class="meta-container">
                         <div class="meta">
                             <div class="og">
-                                <p class="type-label-md">Credit to Prometheus for the <a href="https://tsl.pages.dev/" target="_blank">Website Layout</a></p>
+                                <p class="type-label-md">
+                                
+                                
+                                Credit to Prometheus for the <a href="https://tsl.pages.dev/" target="_blank">Website Layout</a></p>
                             </div>
                         <div v-if="editors">
-                        <h3>List Credits</h3>
+                        <h3>
+                        
+                        List Credits</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
+
+                            
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
