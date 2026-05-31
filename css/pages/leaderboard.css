@@ -99,11 +99,12 @@
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
-.page-leaderboard .meta-container .og a:hover,
-.page-leaderboard .level-container .level .records a:hover {
+.page-leaderboard .meta-container {
+    padding: 30px;
+}
+.page-leaderboard .meta-container .og a:hover {
     text-decoration: underline;
     color: var(--color-on-link);
-    gap: 2rem;
 }
 .page-leaderboard .meta {
     display: flex;
