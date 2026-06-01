@@ -103,6 +103,7 @@ export default {
                         </ol>
                     </template>
                     <p class="type-label-lg">Check out our youtube channel: <a href="https://www.youtube.com/channel/UCsWrgEXq34GyLqK8KJetKbg" target="_blank">HERE</a></p>
+                    <p class="type-label-lg">Check out the ACDL: <a href="https://docs.google.com/spreadsheets/d/15Zz2R-4mSf9AKgN02qrtXjNh4tKjzuoQgTKJIZ6lz7k/edit?gid=1665632563#gid=1665632563" target="_blank">HERE</a></p>
                     <h3>Extra Info</h3>
                     <p>
                     "CC" is the abbreviation for Coins Collected
