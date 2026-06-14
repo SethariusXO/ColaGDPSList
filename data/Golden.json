@@ -8,7 +8,7 @@
     "percentToQualify": 64,
     "coins": "0",
     "enjoyment": "3.34/10",
-    "victors": "2",
+    "victors": "1",
     "tags": "Medium, Fast Paced, High CPS, Ship, Wave",
         "records": [
             {
@@ -16,12 +16,6 @@
                 "link": "https://www.youtube.com/watch?v=mKMDYKNrwN4",
                 "percent": 100,
                 "cc": 0
-            },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=735s",
-            "percent": 100,
-            "cc": 0
-        }
+            }
     ]
 }
