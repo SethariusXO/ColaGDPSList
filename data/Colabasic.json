@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "3",
     "enjoyment": "5.17/10",
-    "victors": "6",
+    "victors": "5",
     "tags": "Medium, Click Sync, UFO",
     "records": [
         {
@@ -30,12 +30,6 @@
                 "percent": 100,
                 "cc": 0
          },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
-            "percent": 100,
-            "cc": 1
-        },
         {
             "user": "Astro 144",
             "link": "https://youtu.be/O1v4G1R4UTk?si=InKFprnybsm-V_qI",
