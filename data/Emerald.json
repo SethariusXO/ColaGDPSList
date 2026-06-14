@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "8/10",
-    "victors": "2",
+    "victors": "1",
     "tags": "Long, Chokepoints, Learny, Nerve Control, Overall",
     "records": [
             {
@@ -16,12 +16,6 @@
                 "link": "https://www.youtube.com/watch?v=vYzTdn-1oJA",
                 "percent": 100,
                 "cc": 0
-            },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=300s",
-            "percent": 100,
-            "cc": 0
-        }
+            }
     ]
 }
