@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "5.44/10",
-    "victors": "7",
+    "victors": "6",
     "tags": "Short, Timings, Overall",
     "records": [
         {
@@ -26,12 +26,6 @@
         {
             "user": "victor 240",
             "link": "https://youtu.be/DBEeyV3JYos",
-            "percent": 100,
-            "cc": 0
-        },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
             "percent": 100,
             "cc": 0
         },
