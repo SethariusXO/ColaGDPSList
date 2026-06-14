@@ -8,18 +8,12 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "7.67/10",
-    "victors": "2",
+    "victors": "1",
     "tags": "Medium, Duals, Overall",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=XphIKjnUklo",
-            "percent": 100,
-            "cc": 0
-        },
-        {
-            "user": "Nrubikk 240",
-            "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
             "percent": 100,
             "cc": 0
         }
