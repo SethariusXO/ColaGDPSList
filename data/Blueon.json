@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "7/10",
-    "victors": "8",
+    "victors": "7",
     "tags": "Long, Timings, Ship, Wave",
     "records": [
         {
@@ -48,12 +48,6 @@
             "percent": 100,
             "cc": 0,
             "mobile": true
-        },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
-            "percent": 100,
-            "cc": 0
         },
         {
             "user": "LukeGD 60",
