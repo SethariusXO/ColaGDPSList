@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "3.75/10",
-    "victors": "4",
+    "victors": "3",
     "tags": "Long, Circles, Timings, Wave",
     "records": [
         {
@@ -28,12 +28,6 @@
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
                 "cc": 0
-         },
-        {
-            "user": "NRubikk 240",
-            "link": "https://youtu.be/ezv16w9vi0w?si=MdQfXP7C5d0ll5oH",
-            "percent": 100,
-            "cc": 0
-        }
+         }
     ]
 }
