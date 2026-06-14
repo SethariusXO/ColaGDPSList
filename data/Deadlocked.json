@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "3",
     "enjoyment": "8.57/10",
-    "victors": "6",
+    "victors": "5",
     "tags": "Long, Learny, Nerve Control, Wave",
     "records": [
         {
@@ -35,12 +35,6 @@
             "link": "https://www.youtube.com/watch?v=b8lJaCBrRLw",
             "percent": 100,
             "cc": 0
-        },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=IsFdaCmrdhc",
-            "percent": 100,
-            "cc": 3
         },
         {
             "user": "LukeGD 60",
