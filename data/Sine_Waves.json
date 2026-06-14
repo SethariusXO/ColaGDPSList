@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "1",
     "enjoyment": "6.75/10",
-    "victors": "8",
+    "victors": "7",
     "tags": "Medium, Circles, Chokepoints, Wave",
         "records": [
             {
@@ -26,12 +26,6 @@
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
-                "percent": 100,
-                "cc": 0
-            },
-            {
-                "user": "NRubikk 240",
-                "link": "https://youtu.be/aRF3-fsKI1M?si=bWxxEIQYIiLwx1Wu",
                 "percent": 100,
                 "cc": 0
             },
