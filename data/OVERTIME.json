@@ -8,7 +8,7 @@
     "percentToQualify": "55",
     "coins": "1",
     "enjoyment": "7.8/10",
-    "victors": "4",
+    "victors": "3",
     "tags": "Long, Click Sync, Learny, Flow, Nerve Control, Overall",
     "records": [
         {
@@ -28,12 +28,6 @@
                 "link": "https://youtu.be/XhRuoBmgRtc",
                 "percent": 100,
                 "cc": 0
-            },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=900s",
-            "percent": 100,
-            "cc": 0
-        }
+            }
     ]
 }
