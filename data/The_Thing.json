@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "coins": "1",
     "enjoyment": "6.67/10",
-    "victors": "7",
+    "victors": "6",
     "tags": "Short, Percision, Chokepoints, Old Swing",
         "records": [
             {
@@ -42,12 +42,6 @@
                 "percent": 100,
                 "cc": 0
             },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=Z5IU5oKI1ug",
-            "percent": 100,
-            "cc": 0
-        },
             {
                 "user": "vecspi 60",
                 "link": "https://www.youtube.com/watch?v=x9Krebht12o",
