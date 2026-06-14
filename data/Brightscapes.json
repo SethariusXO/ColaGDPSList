@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "4.17/10",
-    "victors": "4",
+    "victors": "3",
     "tags": "Medium, Timings, Slow Paced, Robot",
     "records": [
         {
@@ -28,12 +28,6 @@
                 "link": "https://youtu.be/J0pq03fgcYw",
                 "percent": 100,
                 "cc": 0
-            },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=iozvb6uhSjQ&t=161s",
-            "percent": 100,
-            "cc": 0
-        }
+            }
     ]
 }
