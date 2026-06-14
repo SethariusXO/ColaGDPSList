@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "3",
     "enjoyment": "6.6/10",
-    "victors": "5",
+    "victors": "4",
     "tags": "Long, Learny, Ship, Overall",
     "records": [
         {
@@ -23,12 +23,6 @@
             "percent": 100,
             "cc": 2,
             "mobile": true
-        },
-        {
-            "user": "NRubikk 240",
-            "link": "https://www.youtube.com/watch?v=h-ZZRDEy5Y0",
-            "percent": 100,
-            "cc": 1
         },
         {
             "user": "DavidShaft 240",
