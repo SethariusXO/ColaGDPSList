@@ -1,0 +1,21 @@
+{
+    "id": 618,
+    "name": "Zad Nehilium II",
+    "author": "ogrupups",
+    "creators": ["ogrupups"],
+    "verifier": "ogrupups 120",
+    "verification": "https://www.youtube.com/watch?v=R-djxkpRR6c&t=677s",
+    "percentToQualify": 53,
+    "coins": "0",
+    "enjoyment": "6/10",
+    "victors": "1",
+    "tags": "Medium, Memory, Ship",
+        "records": [
+        {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=jHrctNwg33w",
+            "percent": 100,
+            "cc": 0
+        }
+    ]
+}
