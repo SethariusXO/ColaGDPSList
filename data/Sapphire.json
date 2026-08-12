@@ -7,13 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=Fa0kU6C0MYk&t=66s",
     "percentToQualify": "61",
     "coins": "0",
-    "enjoyment": "9/10",
-    "victors": "1",
+    "enjoyment": "8.33/10",
+    "victors": "2",
     "tags": "Medium, Circles, High CPS, Wave",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=o8dy0Wna2-E",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "ErrorWinters 240",
+            "link": "https://www.youtube.com/watch?v=cMCzfAcsNvc&t=63s",
             "percent": 100,
             "cc": 0
         }
