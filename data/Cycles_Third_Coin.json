@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "3",
     "enjoyment": "5.64/10",
-    "victors": "12",
+    "victors": "11",
     "tags": "Short, Timings, Ball",
     "records": [
        {
@@ -30,12 +30,6 @@
             "percent": 100,
             "cc": 3,
             "mobile": true
-        },
-        {
-            "user": "nickgiarovel 60",
-            "link": "https://www.youtube.com/watch?v=6z3UvPzvzes",
-            "percent": 100,
-            "cc": 3
         },
         {
             "user": "ooink 120",
