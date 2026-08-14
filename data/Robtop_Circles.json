@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "1",
     "enjoyment": "7.71/10",
-    "victors": "9",
+    "victors": "8",
     "tags": "Medium, Circles, Wave",
     "records": [
         {
@@ -39,12 +39,6 @@
         {
             "user": "Asta 60",
             "link": "https://youtu.be/CXEScBazIp0?si=HA6duE0ixDPpC_e1",
-            "percent": 100,
-            "cc": 0
-        },
-        {
-            "user": "nickgiarovel 60",
-            "link": "https://www.youtube.com/watch?v=YhKuH8_I3Y4",
             "percent": 100,
             "cc": 0
         },
