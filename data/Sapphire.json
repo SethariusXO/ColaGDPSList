@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=Fa0kU6C0MYk&t=66s",
     "percentToQualify": "61",
     "coins": "0",
-    "enjoyment": "8.25/10",
-    "victors": "3",
+    "enjoyment": "7.8/10",
+    "victors": "4",
     "tags": "Medium, Circles, High CPS, Wave",
     "records": [
         {
@@ -26,6 +26,12 @@
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nkm5PzvtB537CBBTt?invite=cr-MSxCN2ssNTk5NjUyMTQ2",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nluCldjLGsyWQSnva?invite=cr-MSxLTnMsNDMyMzA3MjE0",
             "percent": 100,
             "cc": 0
         }
