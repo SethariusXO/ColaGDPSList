@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/SEk_SI6HJAM",
     "percentToQualify": "100",
     "coins": "0",
-    "enjoyment": "5.83/10",
-    "victors": "12",
+    "enjoyment": "5.38/10",
+    "victors": "13",
     "tags": "Short, Timings, Ball",
     "records": [
        {
@@ -83,6 +83,12 @@
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nkmL4w94cEq0BdPin?invite=cr-MSxUSDYsNTk5NjUyMTQ2",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nludwJr7EzUliC3-E?invite=cr-MSw5dzcsNDMyMzA3MjE0",
             "percent": 100,
             "cc": 0
         }
