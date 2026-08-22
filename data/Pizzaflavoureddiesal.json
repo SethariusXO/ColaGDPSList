@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=gdD_PR_cOr8",
     "percentToQualify": "57",
     "coins": "0",
-    "enjoyment": "4/10",
-    "victors": "10",
+    "enjoyment": "3.31/10",
+    "victors": "11",
     "tags": "Short, Timings, Nerve Control, Ship",
     "records": [
         {
@@ -69,6 +69,12 @@
         {
             "user": "mayberlxck 240",
             "link": "https://www.youtube.com/watch?v=1lrQwuHGblE",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nmFPlFxf4vJ33S7Ol?invite=cr-MSw4cXUsNDMyMzA3MjE0",
             "percent": 100,
             "cc": 0
         }
