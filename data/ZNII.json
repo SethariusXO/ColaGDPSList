@@ -7,13 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=R-djxkpRR6c&t=677s",
     "percentToQualify": 53,
     "coins": "0",
-    "enjoyment": "6/10",
-    "victors": "1",
+    "enjoyment": "4/10",
+    "victors": "2",
     "tags": "Medium, Memory, Ship",
         "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=jHrctNwg33w",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nmG3UjWWFFnTilsC8?invite=cr-MSw4cHYsNDMyMzA3MjE0",
             "percent": 100,
             "cc": 0
         }
