@@ -8,22 +8,15 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "7.09/10",
-    "victors": "8",
+    "victors": "7",
     "tags": "Long, Timings, Ship, Wave",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=jLr9kkYfHhk",
             "percent": 100,
-            "cc": 0
+            "cc": "CBF"
         },
-        {
-            "user": "vasi 120",
-            "link": "https://www.youtube.com/watch?v=g026z0xG7xM",
-            "percent": 100,
-            "cc": 0,
-           "mobile": true
-       },
             {
                 "user": "Michael Storen 240",
                 "link": "https://www.youtube.com/watch?v=6WOovGoPRl8",
