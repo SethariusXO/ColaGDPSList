@@ -75,7 +75,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="cc">
-                                <p>{{ record.cc }}CC</p>
+                                <p>{{ record.cc }}</p>
                             </td>
                         </tr>
                     </table>
@@ -105,7 +105,7 @@ export default {
                     <p class="type-label-lg">Check out our youtube channel: <a href="https://www.youtube.com/channel/UCsWrgEXq34GyLqK8KJetKbg" target="_blank">HERE</a></p>
                     <h3>Extra Info</h3>
                     <p>
-                    "CC" is the abbreviation for Coins Collected
+                    "COS" Stands for Click on Steps
                     </p>
                     <p>
                     Average Enjoyment is worked out with the mean of everyone's "Enjoyment Rating"
