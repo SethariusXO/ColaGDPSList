@@ -15,56 +15,62 @@
             "user": "ErrorWinters 240",
             "link": "https://www.youtube.com/watch?v=PmrsoL92_S4",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
         },
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=q-4OpAnzAfY",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
         },
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "IceOweni 60",
             "link": "https://youtu.be/45WaGAtaamY?si=jpZX9ZgafkK54uOR",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
         {
             "user": "victor 240",
             "link": "https://youtu.be/sCbyRTald6I",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Astro 144",
             "link": "https://youtu.be/IgoLlfGx85s?si=5FAnP4omnCaCfRGA",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
         },
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/shorts/9DkPMW4yuSY",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Lucas531 165",
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
         },
         {
             "user": "Asta 60",
             "link": "https://www.youtube.com/shorts/lvbK0Cws3cg",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nn3tAmkg2VwoMLBaV?invite=cr-MSxLNm0sNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
         }
     ]
 }
