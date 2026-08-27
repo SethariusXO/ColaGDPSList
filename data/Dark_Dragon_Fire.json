@@ -15,43 +15,49 @@
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
             {
             "user": "ErrorWinters 240",
             "link": "https://www.youtube.com/watch?v=mlFp9TcDHgg",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
             },
             {
                 "user": "DavidShaft 240",
                 "link": "https://www.youtube.com/watch?v=Fc7bHip2tM0",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
             {
                 "user": "Astro 144",
                 "link": "https://youtu.be/Bdok-fcynMQ?si=aUxgSLDszwD3WnlJ",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
                 "user": "Lucas531 165",
                 "link": "https://www.youtube.com/watch?v=SH1r9vvtZyY&list=PLMBv-prjuyciloFUcK77Ac60wnUGuqVCe&index=2",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
             {
                 "user": "vecspi 60",
                 "link": "https://www.youtube.com/watch?v=2cuvxbFwmns",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "Asta 60",
             "link": "https://www.youtube.com/shorts/BsCV6mGtCq4",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
+        },
+        {
+            "user": "LIMBO 75",
+            "link": "https://medal.tv/games/geometry-dash/clips/nmP2Q6aqfS_5XHb4_?invite=cr-MSxiMFgsNTk5NjUyMTQ2",
+            "percent": 100,
+            "cc": "P"
         }
     ]
 }
