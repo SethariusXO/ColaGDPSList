@@ -33,64 +33,70 @@
             "user": "IceOweni 60",
             "link": "https://youtu.be/bdesQ4my268?si=IZoK2j46wVEMCpZK",
             "percent": 100,
-            "cc": "p",
+            "cc": "P",
             "mobile": true
         },
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": "p"
+                "cc": "P"
             },
         {
             "user": "Krypton 75",
             "link": "https://youtu.be/YWmR-jf0bvA",
             "percent": 100,
-            "cc": "p"
+            "cc": "P"
         },
         {
             "user": "Asta 60",
             "link": "https://www.youtube.com/watch?v=FjnMR8wPu6s",
             "percent": 100,
-            "cc": "p"
+            "cc": "P"
         },
             {
             "user": "ErrorWinters 240",
             "link": "https://www.youtube.com/watch?v=TkDPM955koM",
             "percent": 100,
-            "cc": "p"
+            "cc": "P"
             },
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/shorts/zx634AE1nBE",
             "percent": 100,
-            "cc": "p"
+            "cc": "P"
         },
         {
             "user": "ooink 120",
             "link": "https://m.youtube.com/shorts/MRPmHOKAMNI",
             "percent": 100,
-            "cc": "p",
+            "cc": "P",
             "mobile": true
         },
         {
             "user": "Astro 144",
             "link": "https://www.youtube.com/watch?v=O1v4G1R4UTk",
             "percent": 100,
-            "cc": "p"
+            "cc": "P"
         },
         {
             "user": "Lucas531 165",
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
-            "cc": "p"
+            "cc": "P"
         },
         {
             "user": "FalseTeam 60",
             "link": "https://streamable.com/llv9a9",
             "percent": 100,
-            "cc": "p",
+            "cc": "P",
             "mobile": true
+        },
+        {
+            "user": "cheesedude",
+            "link": "https://medal.tv/games/geometry-dash/clips/nn3pWpCIo4iNuZ_T3?invite=cr-MSx3ejgsNDMyMzA3MjE0"
+            "percent": 100,
+            "cc": "CBF",
         }
     ]
 }
