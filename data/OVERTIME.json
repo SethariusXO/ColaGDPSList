@@ -7,27 +7,33 @@
     "verification": "https://www.youtube.com/watch?v=eWI0EzrxxuA",
     "percentToQualify": "47",
     "coins": "1",
-    "enjoyment": "7.8/10",
-    "victors": "3",
+    "enjoyment": "8.17/10",
+    "victors": "4",
     "tags": "Long, Click Sync, Learny, Flow, Nerve Control, Overall",
     "records": [
         {
             "user": "Lucas531 165",
             "link": "https://www.youtube.com/watch?v=PrzZI6Y8wk4",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Delixity 160",
             "link": "https://www.youtube.com/watch?v=kLBDHiWqi2U",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
                 "user": "vecspi 60",
                 "link": "https://youtu.be/XhRuoBmgRtc",
                 "percent": 100,
-                "cc": 0
-            }
+                "cc": "P"
+            },
+        {
+                "user": "cheesedude 180",
+                "link": "https://medal.tv/games/geometry-dash/clips/nn7RRErVQiS0T5zU7?invite=cr-MSxEYnEsNzQ3NDYyOTUw",
+                "percent": 100,
+                "cc": "CBF"
+        }
     ]
 }
