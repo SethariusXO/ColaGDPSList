@@ -11,29 +11,24 @@
     },
     {
         "role": "helper",
-        "name": "ogrupups (List Mod)",
+        "name": "ogrupups (List Editor)",
         "link": "https://www.youtube.com/@razrabRealLifes"
     },
     {
         "role": "helper",
-        "name": "LukeGD (List Mod)",
+        "name": "LukeGD (List Editor)",
         "link": "https://www.youtube.com/channel/UC1K0YrzO9xfVjjTXYVhOsMg"
-    },
-    {
-        "role": "trial",
-        "name": "Nrubikk (Placement Council)",
-        "link": "https://www.youtube.com/@NRubikk"
-    },
-    {
-        "role": "trial",
-        "name": "Lucas531 (Placement Council)",
-        "link": "https://www.youtube.com/@Lucas531_real"
     },
     {
         "role": "trial",
         "name": "ogrupups (Placement Council)",
         "link": "https://www.youtube.com/@razrabRealLifes"
     },
+    {
+        "role": "trial",
+        "name": "ErrorWinters (Placement Council)",
+        "link": "https://www.youtube.com/@Errorwinters"
+    }
     {
         "role": "dev",
         "name": "Robsvault (Developer)",
