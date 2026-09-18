@@ -7,15 +7,15 @@
     "verification": "https://www.youtube.com/watch?v=CGkWG4mlPTQ",
     "percentToQualify": 100,
     "coins": "0",
-    "enjoyment": "6.55/10",
-    "victors": "7",
+    "enjoyment": "6/10",
+    "victors": "8",
     "tags": "Short, Fast Paced, Wave",
         "records": [
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": "P"
+                "cc": "COS"
             },
             {
             "user": "ErrorWinters 240",
@@ -64,6 +64,12 @@
                 "link": "https://youtu.be/n0HVGmp54Ng",
                 "percent": 100,
                 "cc": "CBF"
-            }    
+            },
+        {
+            "user": "victor 240",
+            "link": "https://youtu.be/cNnN4xUtxxE",
+            "percent": 100,
+            "cc": "COS"
+        }
     ]
 }
