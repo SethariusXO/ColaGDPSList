@@ -1,0 +1,21 @@
+{
+    "id": 884,
+    "name": "Asta Circles",
+    "author": "Robsvault",
+    "creators": ["Robsvault"],
+    "verifier": "Asta 60",
+    "verification": "https://youtu.be/_XCWaL3y5tM?si=WEkdr1APt2QS0eFV",
+    "percentToQualify": "100",
+    "coins": "0",
+    "enjoyment": "5/10",
+    "victors": "1",
+    "tags": "Medium, Circles, Chokepoints, Wave",
+    "records": [
+        {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=EXkmKFueG8Y",
+            "percent": 100,
+            "cc": "COS"
+        }
+    ]
+}
