@@ -61,6 +61,11 @@ export default {
             <p class="type-body">
                 <span>{{ tags }}</span>
                 </p>
+            </template>
+            <div class="type-title-sm">pack</div>
+            <p class="type-body">
+                <span>{{ pack }}</span>
+                </p>
         </div>
     `,
 
