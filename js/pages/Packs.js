@@ -1,3 +1,4 @@
+import { fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 
