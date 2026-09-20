@@ -16,6 +16,10 @@ export default {
             type: Array,
             required: false,
         },
+        pack: {
+            type: Array,
+            required: false,
+        },
     },
     template: `
         <div class="level-authors">
