@@ -21,9 +21,6 @@ export default {
             <div class="comingsoon-container">
                 <div class="pack">
                    <h1>
-                       <button @click="selected = i">
-                        <span class="type-label-lg">{{ level.pack }}</span>
-                        </button>
                    
                    
                    Coming Soon!</h1>
