@@ -20,7 +20,7 @@ export default {
             <div class="comingsoon-container">
                 <div class="pack">
                    <h1>
-                   
+                        <span class="type-label-lg">{{ level.pack }}</span>
                    
                    
                    Coming Soon!</h1>
