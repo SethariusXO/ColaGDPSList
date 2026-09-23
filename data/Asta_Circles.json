@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "coins": "0",
     "enjoyment": "5/10",
-    "victors": "1",
+    "victors": "2",
     "tags": "Medium, Circles, Chokepoints, Wave",
     "records": [
         {
@@ -16,6 +16,12 @@
             "link": "https://www.youtube.com/watch?v=EXkmKFueG8Y",
             "percent": 100,
             "cc": "COS"
+        },
+        {
+            "user": "Lucas531 170",
+            "link": "https://www.youtube.com/watch?v=hWYZV4u_wnM",
+            "percent": 100,
+            "cc": "CBF"
         }
     ]
 }
