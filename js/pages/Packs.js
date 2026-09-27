@@ -10,16 +10,18 @@ export default {
         </main>
         <main v-else class="page-packs">
             <div class="packs-container">
-                <table class="packs">
+                <table class="cyclespack">
                     <h4>Cycles Coin Pack</h4>
                     <tr>
                         <td class="cyclespack1">
                         <input type="checkbox" id: "1">
                         <label for="1">Cycles First Coin (101)</label>
                         </td>
+                    </tr>
+                    <tr>
                         <td class="cyclespack1">
-                        <input type="checkbox" id: "1">
-                        <label for="1">Cycles Second Coin (102)</label>
+                        <input type="checkbox" id: "2">
+                        <label for="2">Cycles Second Coin (102)</label>
                         </td>
                     </tr>
                 </table>
