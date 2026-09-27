@@ -2,6 +2,7 @@
     background-color: #212121;
 }
 .page-packs .packs-container {
+    display: flex;
     background-color: var(--color-background);
     padding-block: 2rem;
     flex-direction: column;
@@ -20,7 +21,4 @@
 .page-packs .comingsoon-container .pack {
     text-align: center;
     padding-top: 10rem;
-}
-.page-packs .packs-container .packs .cyclespack {
-    padding-top: 1rem;
 }
