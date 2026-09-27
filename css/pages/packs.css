@@ -10,7 +10,9 @@
 }
 .page-packs .packs-container label {
     padding-left: 1rem;
-    height: 20px;
+}
+.page-packs .packs-container input {
+    padding-top: 1px
 }
 .page-packs .packs-container {
     padding-inline: 1rem;
