@@ -76,10 +76,12 @@ export default {
             </div>
             <div class="comingsoon-container">
                 <div class="pack">
-                   <h1>
-                   
-                   
-                   Coming Soon!</h1>
+                   <h1>CDL Packs</h1>
+                </div>
+            </div>
+            <div class="info-container">
+                <div class="info">
+                    <h2>Packs Info</h2>
                 </div>
             </div>
       </main>
