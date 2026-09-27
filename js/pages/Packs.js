@@ -82,6 +82,10 @@ export default {
             <div class="info-container">
                 <div class="info">
                     <h2>Packs Info</h2>
+                    <p>
+                    Similarly to the Roulette page, anything on this page does not change scores or levels on the other pages.
+                    Which means that you do not gain points for completing packs, however they're a (hopefully) fun challenge.
+                    </p>
                 </div>
             </div>
       </main>
