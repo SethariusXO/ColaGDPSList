@@ -13,11 +13,9 @@ export default {
                 <table class="packs">
                     <h4>Cycles Coin Pack</h4>
                     <tr>
-                        <div>
                         <td class="cyclespack">
                         <input type="checkbox" id: "1">
                         <label for="1">Cycles First Coin (101)</label>
-                            </div>
                         </td>
                     </tr>
                 </table>
