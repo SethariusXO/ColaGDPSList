@@ -7,9 +7,15 @@
     "verification": "https://www.youtube.com/watch?v=OmoetEEM-EI",
     "percentToQualify": "49",
     "coins": "3",
-    "enjoyment": "N/A",
+    "enjoyment": "4/10",
     "victors": "0",
     "tags": "Medium, Circles, High CPS, Wave",
     "records": [
+        {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=yiz_SzuZkMg",
+            "percent": 50,
+            "cc": "COS"
+        }
     ]
 }
