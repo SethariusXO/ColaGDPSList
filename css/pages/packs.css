@@ -9,6 +9,17 @@
     gap: 2rem;
     align-items: flex-start;
 }
+.page-packs .info-container {
+    display: flex;
+    background-color: var(--color-background);
+    padding-block: 3rem;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: flex-start;
+}
+.page-packs .info-container h2 {
+    text-align: center;
+}
 .page-packs .packs-container input {
     height: 1.25rem;
     width: 1.25rem;
