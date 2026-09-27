@@ -55,8 +55,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">coins</div>
-                            <p>{{ level.coins}}</p>
+                            <div class="type-title-sm">length</div>
+                            <p>{{ level.length }}</p>
                         </li>
                     </ul>
                     <h2>Records ({{ level.victors }})</h2>
