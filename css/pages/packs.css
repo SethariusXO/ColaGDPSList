@@ -9,6 +9,9 @@
     gap: 2rem;
     align-items: flex-start;
 }
+.page-packs .packs-container {
+    gap: 2rem;
+}
 .page-packs .packs-container label {
     padding-left: 0.75rem;
 }
