@@ -10,8 +10,8 @@ export default {
         </main>
         <main v-else class="page-packs">
             <div class="packs-container">
-                <table class="packs" v-if="packs">
-                    <tr v-for="([level, err], i) in pack">
+                <table class="packs">
+                    <tr>
                         <td class="soon">
                             <p>Coming Soon!</p>
                         </td>
