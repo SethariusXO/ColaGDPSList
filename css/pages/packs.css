@@ -13,9 +13,9 @@
     padding-block: 0.75rem;
 }
 .page-packs .packs-container .cyclespack td {
-    padding-block: 0.75rem;
+    padding-block: 0.5rem;
 }
-.page-packs .packs-container label {
+.page-packs .packs-container .cyclespack label {
     padding-left: 0.75rem;
 }
 .page-packs .packs-container input {
