@@ -15,19 +15,19 @@ export default {
                     <tr>
                         <td class="cyclespack1">
                         <input type="checkbox" id: "1">
-                        <label for="1">Cycles First Coin (101)</label>
+                        <label for="1">Cycles First Coin (102)</label>
                         </td>
                     </tr>
                     <tr>
                         <td class="cyclespack2">
                         <input type="checkbox" id: "2">
-                        <label for="2">Cycles Second Coin (102)</label>
+                        <label for="2">Cycles Second Coin (241)</label>
                         </td>
                     </tr>
                     <tr>
                         <td class="cyclespack3">
                         <input type="checkbox" id: "3">
-                        <label for="3">Cycles Third Coin (103)</label>
+                        <label for="3">Cycles Third Coin (265)</label>
                         </td>
                     </tr>
                 </table>
