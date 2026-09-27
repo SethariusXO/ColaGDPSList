@@ -19,10 +19,10 @@
     padding-left: 0.75rem;
 }
 .page-packs .packs-container input {
-    height: 1.25rem;
+    height: 0.75rem;
 }
 .page-packs .packs-container {
-    padding-inline: 2rem;
+    padding-inline: 3rem;
 }
 .page-packs .comingsoon-container .pack {
     text-align: center;
