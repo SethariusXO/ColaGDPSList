@@ -4,7 +4,7 @@
 .page-packs .packs-container {
     display: flex;
     background-color: var(--color-background);
-    padding-block: 2rem;
+    padding-block: 3rem;
     flex-direction: column;
     gap: 2rem;
     align-items: flex-start;
@@ -17,7 +17,7 @@
 }
 .page-packs .packs-container .cyclespack label {
     padding-left: 0.75rem;
-    translate: 0px -5px;
+    translate: 0px -1rem;
 }
 .page-packs .packs-container input {
     height: 1.25rem;
