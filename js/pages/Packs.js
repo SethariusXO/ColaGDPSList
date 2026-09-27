@@ -83,8 +83,17 @@ export default {
                 <div class="info">
                     <h2>Packs Info</h2>
                     <p>
-                    Similarly to the Roulette page, anything on this page does not change scores or levels on the other pages.
-                    Which means that you do not gain points for completing packs, however they're a (hopefully) fun challenge.
+                        Similarly to the Roulette page, anything on this page does not change scores or levels on the other pages.
+                        Which means that you do not gain points for completing packs, however they're (hopefully) a fun challenge.
+                    </p>
+                    <p>
+                        The colours on the pack titles do not represent difficulty, they represent the colour of the levels.
+                    </p>
+                    <p>
+                        Tick off levels as you beat them, however this page doesn't save automatically unfortunately.
+                    </p>
+                    <p>
+                        If you would like to suggest a CDL Pack, then join the discord server by clicking the discord icon.
                     </p>
                 </div>
             </div>
