@@ -12,7 +12,9 @@ export default {
             <div class="packs-container">
                 <table class="packs">
                     <tr>
-                        <h4>Cycles Coin Pack</h4>
+                        <td>
+                            <h4>Cycles Coin Pack</h4>
+                        </td>
                         <td class="cyclespack">
                             <div>
                         <input type="checkbox" id: "1">
