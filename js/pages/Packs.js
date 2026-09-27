@@ -12,9 +12,12 @@ export default {
             <div class="packs-container">
                 <table class="packs">
                     <tr>
-                        <h1>Cycles Coin Pack</h1>
-                        <td class="soon">
-                            <p>Coming Soon!</p>
+                        <h4>Cycles Coin Pack</h4>
+                        <td class="Cyclespack">
+                            <div>
+                        <input type="checkbox" id: "main">
+                        <label for="main">Main List</label>
+                            </div>
                         </td>
                     </tr>
                 </table>
