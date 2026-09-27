@@ -9,7 +9,7 @@
     gap: 2rem;
     align-items: flex-start;
 }
-.page-packs .packs-container .cyclespack {
+.page-packs .packs-container .cyclespack h4 {
     gap: 2rem;
 }
 .page-packs .packs-container label {
