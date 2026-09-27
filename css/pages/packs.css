@@ -17,6 +17,9 @@
     gap: 2rem;
     align-items: flex-start;
 }
+.page-packs .info-container p {
+    padding-block: 1rem;
+}
 .page-packs .packs-container input {
     height: 1.25rem;
     width: 1.25rem;
