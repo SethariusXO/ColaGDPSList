@@ -32,6 +32,7 @@
 }
 .page-packs .packs-container .coderedpack h4 {
     padding-block: 0.75rem;
+    color: #FF0000;
 }
 .page-packs .packs-container .coderedpack td {
     padding-block: 0.5rem;
