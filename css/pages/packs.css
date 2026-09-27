@@ -17,6 +17,7 @@
 }
 .page-packs .packs-container .cyclespack label {
     padding-left: 0.75rem;
+    height: 1.25rem;
 }
 .page-packs .packs-container input {
     height: 1.25rem;
