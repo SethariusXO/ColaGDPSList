@@ -13,7 +13,7 @@ export default {
                 <table class="packs">
                     <tr>
                         <h4>Cycles Coin Pack</h4>
-                        <td class="Cyclespack">
+                        <td class="cyclespack">
                             <div>
                         <input type="checkbox" id: "1">
                         <label for="1">Cycles First Coin (101)</label>
