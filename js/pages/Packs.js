@@ -11,10 +11,8 @@ export default {
         <main v-else class="page-packs">
             <div class="packs-container">
                 <table class="packs">
+                    <h4>Cycles Coin Pack</h4>
                     <tr>
-                        <td>
-                            <h4>Cycles Coin Pack</h4>
-                        </td>
                         <div>
                         <td class="cyclespack">
                         <input type="checkbox" id: "1">
