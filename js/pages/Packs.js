@@ -12,6 +12,7 @@ export default {
             <div class="packs-container">
                 <table class="packs">
                     <tr>
+                        <h1>Cycles Coin Pack</h1>
                         <td class="soon">
                             <p>Coming Soon!</p>
                         </td>
