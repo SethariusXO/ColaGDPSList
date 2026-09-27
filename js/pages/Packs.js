@@ -15,8 +15,8 @@ export default {
                         <h4>Cycles Coin Pack</h4>
                         <td class="Cyclespack">
                             <div>
-                        <input type="checkbox" id: "main">
-                        <label for="main">Main List</label>
+                        <input type="checkbox" id: "1">
+                        <label for="1">Cycles First Coin (101)</label>
                             </div>
                         </td>
                     </tr>
