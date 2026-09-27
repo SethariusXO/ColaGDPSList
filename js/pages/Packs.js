@@ -52,6 +52,27 @@ export default {
                         </td>
                     </tr>
                 </table>
+                <table class="oldpack">
+                    <h4>Old Top 3 Pack</h4>
+                    <tr>
+                        <td class="oldpack1">
+                        <input type="checkbox" id: "7">
+                        <label for="7">Cycles First Coin (102)</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="oldpack2">
+                        <input type="checkbox" id: "8">
+                        <label for="8">Apocalyptic (105)</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="oldpack3">
+                        <input type="checkbox" id: "9">
+                        <label for="9">Code Red (104)</label>
+                        </td>
+                    </tr>
+                </table>
             </div>
             <div class="comingsoon-container">
                 <div class="pack">
