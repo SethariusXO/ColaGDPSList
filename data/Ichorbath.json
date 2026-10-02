@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=9e7NDLV0CTE",
     "percentToQualify": 100,
     "length": "0m:17s",
-    "enjoyment": "6.44/10",
+    "enjoyment": "6.7/10",
     "victors": "6",
     "tags": "Short, Flow, Ship",
         "records": [
@@ -46,6 +46,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nlupE1RSxLabqA8xP?invite=cr-MSx5QUIsNzQ3NDYyOTUw",
             "percent": 100,
             "cc": 0
-        }
+        },
+            {
+                "user": "ProjectGeometry 144",
+                "link": "https://youtu.be/DJiXY41sL6I",
+                "percent": 100,
+                "cc": "COS"
+            }
     ]
 }
