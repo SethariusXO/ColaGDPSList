@@ -7,15 +7,21 @@
     "verification": "https://www.youtube.com/watch?v=ep9Ig2-18fw",
     "percentToQualify": 59,
     "length": "1m:16s",
-    "enjoyment": "7/10",
-    "victors": "1",
+    "enjoyment": "7.67/10",
+    "victors": "2",
     "tags": "Long, Click Sync, Fast Paced, High CPS, Flow, Wave, Overall",
         "records": [
             {
                 "user": "Lucas531 170",
                 "link": "https://www.youtube.com/watch?v=mt-mbyWTaPs&t=61s",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
+            },
+            {
+                "user": "AR 120",
+                "link": "https://medal.tv/games/requested/clips/nEXyGQKUEdhgP_t03?invite=cr-MSx1ZTksODM1NTU4MzE1",
+                "percent": 100,
+                "cc": "CBS"
             }
     ]
 }
