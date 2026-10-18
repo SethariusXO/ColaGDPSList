@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=2G7ACdKkp18",
     "percentToQualify": "100",
     "length": "0m:14s",
-    "enjoyment": "5.1/10",
+    "enjoyment": "5.6/10",
     "victors": "5",
     "tags": "Short, Timings, Overall",
     "records": [
@@ -44,6 +44,12 @@
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nn3sNxjSClZiXLBxI?invite=cr-MSw3bkwsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "AR 120",
+            "link": "https://medal.tv/ru/games/requested/clips/nJahAPkBmid3S3PK4?invite=cr-MSwyQ3MsODM1NTU4MzE1",
             "percent": 100,
             "cc": "CBF"
         }
