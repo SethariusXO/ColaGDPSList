@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=AxkMrfmpvBA",
     "percentToQualify": "63",
     "length": "0m:42s",
-    "enjoyment": "5.71/10",
-    "victors": "4",
+    "enjoyment": "6.1/10",
+    "victors": "5",
     "tags": "Medium, Chokepoints, Wave",
     "records": [
             {
@@ -34,6 +34,12 @@
                 "link": "https://www.youtube.com/watch?v=2G_hepg9h6w",
                 "percent": 100,
                 "cc": "CBF"
+            },
+            {
+                "user": "Lan 144",
+                "link": "https://medal.tv/ru/games/requested/clips/nGW3CaLaZzDfsRjMG?invite=cr-MSxoUFIsMTk2MDExODIw",
+                "percent": 100,
+                "cc": "CBS"
             }
       ]
 }
