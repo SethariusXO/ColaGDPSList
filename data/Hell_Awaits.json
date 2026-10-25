@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=gvTnqBvCNtI",
     "percentToQualify": "100",
     "length": "0m:16s",
-    "enjoyment": "5.33/10",
-    "victors": "3",
+    "enjoyment": "5.14/10",
+    "victors": "4",
     "tags": "Short, Nerve Control, Wave",
     "records": [
         {
@@ -28,6 +28,12 @@
             "link": "https://www.youtube.com/shorts/zK_6spXkfWc",
             "percent": 100,
             "cc": 0
+        },
+            {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nMCociPxeL1hJvbUf?invite=cr-MSxLeUksNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
         }
     ]
 }
