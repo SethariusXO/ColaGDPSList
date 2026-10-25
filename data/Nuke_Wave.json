@@ -15,19 +15,19 @@
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/shorts/ognFsy1ItR8",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nltZsojIhHhdZHw_R?invite=cr-MSxNa3YsNTk5NjUyMTQ2",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nluznhfDA1etxOdEK?invite=cr-MSw1N00sNDMyMzA3MjE0",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
                 "user": "Lucas531 170",
@@ -46,6 +46,12 @@
                "link": "https://medal.tv/games/requested/clips/nLFpswn0268vgeaXM?invite=cr-MSxPcVcsODM1NTU4MzE1",
                "percent": 100,
                "cc": "COS"
-        }
+        },
+            {
+                "user": "ProjectGeometry 144",
+                "link": "https://www.youtube.com/watch?v=9yfYwvbUW7A",
+                "percent": 100,
+                "cc": "CBF"
+            }
       ]
 }
