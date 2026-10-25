@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:14s",
     "enjoyment": "4.5/10",
-    "victors": "4",
+    "victors": "4.56",
     "tags": "Short, Timings, Chokepoints, Overall",
     "records": [
         {
@@ -34,6 +34,12 @@
             "link": "https://www.youtube.com/watch?v=0HJ8wPtdwh4",
             "percent": 100,
             "cc": 0
+        },
+            {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nMCvTaW60JbgZ4Obw?invite=cr-MSxadUYsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
         }
     ]
 }
