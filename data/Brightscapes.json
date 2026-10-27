@@ -15,19 +15,19 @@
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/GFIGyu4QdX8",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
          },
         {
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=LWoLZAVKQlY",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
                 "user": "vecspi 60",
                 "link": "https://youtu.be/J0pq03fgcYw",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             }
     ]
 }
