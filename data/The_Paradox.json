@@ -15,19 +15,25 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=Do63zN9sOn0",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=obUX3Wymos0",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
          {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": 0
-         }
+                "cc": "P"
+         },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNnJeDMyz0eST_69j?invite=cr-MSx5QnEsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        }
     ]
 }
