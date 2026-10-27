@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=Zfhb6bdvPgE",
     "percentToQualify": 100,
     "length": "0m:19s",
-    "enjoyment": "6.88/10",
+    "enjoyment": "6.67/10",
     "victors": "4",
     "tags": "Short, High CPS, Wave",
         "records": [
@@ -15,26 +15,32 @@
             "user": "vasi 120",
             "link": "https://youtu.be/_lthtM9jcJc?si=ygBeJPAAj7m0cBV6",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
            "mobile": true
        },
             {
                 "user": "DavidShaft 240",
                 "link": "https://youtu.be/cruczJeQKbA",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
             {
                 "user": "Lucas531 170",
                 "link": "https://youtu.be/mt-mbyWTaPs",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nmi0T4G79_ZSFP8IB?invite=cr-MSxSQzksNTk5NjUyMTQ2",
             "percent": 100,
-            "cc": 0
-        }
+            "cc": "P"
+        },
+            {
+                "user": "cheesedude 180",
+                "link": "https://medal.tv/games/geometry-dash/clips/nNoxXJhR1c56yzk2S?invite=cr-MSxBc1MsNDMyMzA3MjE0",
+                "percent": 100,
+                "cc": "CBF"
+            }
     ]
 }
