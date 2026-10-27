@@ -16,82 +16,82 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=IsFkwwW03ro",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
        },
         {
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=3ihsGmIf3rg",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "IceOweni 60",
             "link": "https://www.youtube.com/watch?v=6hoDopqCT4c",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "Krypton 75",
             "link": "https://www.youtube.com/watch?v=KFjQ5Bwpc8I",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Asta 60",
             "link": "https://www.youtube.com/watch?v=X62juR3m86Y",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "LukeGD 60",
             "link": "https://youtu.be/8DLJYPXpgAs",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/watch?v=Jivq13m1kAw",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
                 "user": "Lucas531 170",
                 "link": "https://www.youtube.com/watch?v=mdzOlIWcuMg",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "FalseTeam 60",
             "link": "https://streamable.com/vcu58v",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
         {
             "user": "AtomiX 60",
             "link": "https://www.youtube.com/watch?v=GEDn4M0Ren0",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nkmL4w94cEq0BdPin?invite=cr-MSxUSDYsNTk5NjUyMTQ2",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nludwJr7EzUliC3-E?invite=cr-MSw5dzcsNDMyMzA3MjE0",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         }
     ]
 }
