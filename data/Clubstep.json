@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "1m:26s",
     "enjoyment": "6.83/10",
-    "victors": "5",
+    "victors": "4",
     "tags": "Long, Learny, Ship, Overall",
     "records": [
         {
@@ -21,13 +21,13 @@
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=cXfKmEYWFhE",
             "percent": 100,
-            "cc": 2
+            "cc": "P"
         },
         {
                 "user": "nikita777 240",
                 "link": "https://www.youtube.com/watch?v=j8o7UZA9tkc",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "ogrupups 180",
