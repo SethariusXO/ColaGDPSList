@@ -7,62 +7,68 @@
     "verification": "https://youtu.be/BfWDotn9Quw",
     "percentToQualify": "100",
     "length": "0m:13s",
-    "enjoyment": "8/10",
-    "victors": "9",
+    "enjoyment": "7.25/10",
+    "victors": "10",
     "tags": "Short, Timings, Overall",
     "records": [
       {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=7A3XlQhOhfo",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "ooink 120",
             "link": "https://www.youtube.com/shorts/b1CCKXphX4Q",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/shorts/Gm3b0-XYgPU",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Astro 144",
             "link": "https://youtu.be/sr2uM2mHpAY?si=t0cmgSAfhhjVaTr-",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Lucas531 170",
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Asta 60",
             "link": "https://www.youtube.com/watch?v=yTe4y3fpNlQ&t=16s",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
                 "user": "ProjectGeometry 144",
                 "link": "https://www.youtube.com/watch?v=V1P0jslw0_w",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
                "user": "AR 120",
                "link": "https://medal.tv/ru/games/requested/clips/nJ9gc296i4TZf9SgF?invite=cr-MSxDR1osODM1NTU4MzE1",
                "percent": 100,
-               "cc": 0
+               "cc": "P"
         },
         {
             "user": "Yoink 240",
             "link": "https://medal.tv/games/requested/clips/nJ9bHvmd52wMpWAuj",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNnYfG5b5epyx_Lxj?invite=cr-MSxGQ0osNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
         }
