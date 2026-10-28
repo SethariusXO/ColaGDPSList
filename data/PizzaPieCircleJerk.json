@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/kfkVNbaEVcA",
     "percentToQualify": "100",
     "length": "0m:34s",
-    "enjoyment": "8.4/10",
-    "victors": "2",
+    "enjoyment": "4/10",
+    "victors": "3",
     "tags": "Medium, Memory, Cube",
     "records": [
         {
@@ -22,6 +22,12 @@
             "link": "https://www.youtube.com/shorts/EyFxzObr46s",
             "percent": 100,
             "cc": 0
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNtvMR3AVFLpoussd?invite=cr-MSxxVGUsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF" 
         }
     ]
 }
