@@ -7,57 +7,63 @@
     "verification": "https://www.youtube.com/watch?v=pF_kL3t-PlI",
     "percentToQualify": 65,
     "length": "0m:35s",
-    "enjoyment": "6.67/10",
-    "victors": "8",
+    "enjoyment": "6.4/10",
+    "victors": "9",
     "tags": "Medium, Circles, Chokepoints, Wave",
         "records": [
             {
                 "user": "Davidshaft 240",
                 "link": "https://www.youtube.com/watch?v=4lCtzEKy0lA",
                 "percent": 100,
-                "cc": 1
+                "cc": "P"
             },
             {
                 "user": "Robsvault 120",
                 "link": "https://www.youtube.com/watch?v=r0iz0IbGqNo",
                 "percent": 100,
-                "cc": 1
+                "cc": "P"
             },
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
             {
                 "user": "Astro 144",
                 "link": "https://youtu.be/19ekMpyhGyw?si=XsNmGke87QJcJYPX",
                 "percent": 100,
-                "cc": 1
+                "cc": "P"
             },
             {
                 "user": "Delixity 160",
                 "link": "https://www.youtube.com/watch?v=0uFgtQOJZOM",
                 "percent": 100,
-                "cc": 1
+                "cc": "P"
             },
         {
                 "user": "Lucas531 170",
                 "link": "https://www.youtube.com/watch?v=mdzOlIWcuMg",
                 "percent": 100,
-                "cc": 1
+                "cc": "P"
             },
             {
                 "user": "vecspi 60",
                 "link": "https://www.youtube.com/watch?v=HahXedM7u4U",
                 "percent": 100,
-                "cc": 1
+                "cc": "P"
             },
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nkmEipOKULTT23bQf?invite=cr-MSxOc1IsNTk5NjUyMTQ2",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
         }
+            {
+                "user": "cheesedude 180",
+                "link": "https://medal.tv/games/geometry-dash/clips/nNoM1J1xX_erIh5E0?invite=cr-MSw2RjMsNDMyMzA3MjE0",
+                "percent": 100,
+                "cc": "CBF"
+            }
     ]
 }
