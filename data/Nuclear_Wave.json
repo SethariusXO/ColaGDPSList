@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=AxkMrfmpvBA&t=70s",
     "percentToQualify": "63",
     "length": "0m:42s",
-    "enjoyment": "6.9/10",
+    "enjoyment": "6.64/10",
     "victors": "6",
     "tags": "Medium, Chokepoints, Wave",
     "records": [
@@ -17,12 +17,6 @@
                 "percent": 100,
                 "cc": 0
             },
-            {
-            "user": "LIMBO 75",
-            "link": "https://medal.tv/games/geometry-dash/clips/nkCeriBHzJhAoCYHL?invite=cr-MSx2N3IsNTk5NjUyMTQ2",
-            "percent": 100,
-            "cc": 0
-        },
         {
                 "user": "Lucas531 170",
                 "link": "https://www.youtube.com/watch?v=aHuRPPPHRbM",
@@ -44,6 +38,12 @@
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/watch?v=KsKJbIEL0o8",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNoHPIsc3AYEZZ_gs?invite=cr-MSxZM24sNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
         }
