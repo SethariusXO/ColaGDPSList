@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=Gk7kEI-27Pw",
     "percentToQualify": "100",
     "length": "0m:31s",
-    "enjoyment": "7.71/10",
+    "enjoyment": "7.5/10",
     "victors": "8",
     "tags": "Medium, Circles, Wave",
     "records": [
@@ -15,44 +15,50 @@
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=gTgCuLr9LvE",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
         },
         {
             "user": "IceOweni 60",
             "link": "https://www.youtube.com/watch?v=oHfk8WYXEpo",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
         {
             "user": "victor 240",
             "link": "https://www.youtube.com/watch?v=hS9GNs-zbx0",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
                 "user": "Michael Storen 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "Asta 60",
             "link": "https://youtu.be/CXEScBazIp0?si=HA6duE0ixDPpC_e1",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Astro 144",
             "link": "https://youtu.be/QiPOoxuQjRk?si=TVxXboAov9ojgW8A",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Lucas531 170",
             "link": "https://www.youtube.com/watch?v=12_9iNCn2-0",
             "percent": 100,
-            "cc": 1
+            "cc": "P"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNtA3pczA8bajUmWN?invite=cr-MSwzZUQsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
         }
     ]
 }
