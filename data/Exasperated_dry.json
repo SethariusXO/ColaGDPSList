@@ -7,13 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=KBxqrtSBGJ8",
     "percentToQualify": "100",
     "length": "0m:32s",
-    "enjoyment": "7.75/10",
-    "victors": "1",
+    "enjoyment": "6.8/10",
+    "victors": "2",
     "tags": "Medium, Memory, Cube, Ship",
     "records": [
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/watch?v=BjXJ52etZjo&t=193s",
+            "percent": 100,
+            "cc": 0
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNtx5t8tHyq6R4uIf?invite=cr-MSxDSnQsNDMyMzA3MjE0",
             "percent": 100,
             "cc": 0
         }
