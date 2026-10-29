@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:34s",
     "enjoyment": "4.17/10",
-    "victors": "3",
+    "victors": "4",
     "tags": "Medium, Timings, Slow Paced, Robot",
     "records": [
         {
@@ -28,6 +28,12 @@
                 "link": "https://youtu.be/J0pq03fgcYw",
                 "percent": 100,
                 "cc": "P"
-            }
+            },
+        {
+                "user": "cheesedude 180",
+                "link": "https://medal.tv/games/geometry-dash/clips/nNtwkUV55vzMRANyn?invite=cr-MSxLczcsNDMyMzA3MjE0",
+                "percent": 100,
+                "cc": "CBF"
+        }
     ]
 }
