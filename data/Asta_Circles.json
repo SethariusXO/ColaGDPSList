@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:23s",
     "enjoyment": "5/10",
-    "victors": "2",
+    "victors": "3",
     "tags": "Medium, Circles, Chokepoints, Wave",
     "records": [
         {
@@ -20,6 +20,12 @@
         {
             "user": "Lucas531 170",
             "link": "https://www.youtube.com/watch?v=hWYZV4u_wnM",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nPsdIDDLUbVXI6QHF?invite=cr-MSxGaUosNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
         }
