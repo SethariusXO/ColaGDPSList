@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/SEk_SI6HJAM",
     "percentToQualify": "100",
     "length": "0m:13s",
-    "enjoyment": "5.38/10",
-    "victors": "13",
+    "enjoyment": "5.43/10",
+    "victors": "14",
     "tags": "Short, Timings, Ball",
     "pack": "Cycles Coin Pack",
     "records": [
@@ -16,7 +16,7 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=IsFkwwW03ro",
             "percent": 100,
-            "cc": "P"
+            "cc": "CBF"
        },
         {
             "user": "DavidShaft 240",
@@ -53,7 +53,7 @@
             "user": "LukeGD 60",
             "link": "https://youtu.be/8DLJYPXpgAs",
             "percent": 100,
-            "cc": "P"
+            "cc": "CBF"
         },
         {
             "user": "ogrupups 180",
@@ -91,7 +91,13 @@
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nludwJr7EzUliC3-E?invite=cr-MSw5dzcsNDMyMzA3MjE0",
             "percent": 100,
-            "cc": "P"
+            "cc": "CBF"
+        },
+        {
+            "user": "AR 120",
+            "link": "https://medal.tv/games/requested/clips/nNwo9JpSnwL7AIAeH?invite=cr-MSx4WU8sODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "COS" 
         }
     ]
 }
