@@ -7,38 +7,44 @@
     "verification": "https://www.youtube.com/watch?v=1YI4oUUiV80",
     "percentToQualify": "100",
     "length": "1m:29s",
-    "enjoyment": "6.18/10",
-    "victors": "4",
+    "enjoyment": "6.86/10",
+    "victors": "6",
     "Tags": "Long, Chokepoints, Learny, Ship",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=4qEi6vlgMeY",
             "percent": 100,
-            "cc": 3
+            "cc": "COS"
         },
         {
             "user": "ooink 120",
             "link": "https://m.youtube.com/shorts/vtk0cpzwsXI",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
             "mobile": true
         },
         {
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=cXfKmEYWFhE",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
                 "user": "nikita777 240",
                 "link": "https://www.youtube.com/watch?v=j8o7UZA9tkc",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "LukeGD 60",
             "link": "https://www.youtube.com/watch?v=jVY6mNEhYZQ&",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nPwxq4TiVvQNMw8fd?invite=cr-MSxKdk8sNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
         }
