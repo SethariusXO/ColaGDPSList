@@ -7,15 +7,21 @@
     "verification": "https://www.youtube.com/watch?v=GtOmFHJaveE",
     "percentToQualify": "52",
     "length": "0m:15s",
-    "enjoyment": "3.5/10",
-    "victors": "1",
+    "enjoyment": "1.33/10",
+    "victors": "2",
     "tags": "Short, High CPS, Nerve Control, UFO",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=V_McS8YPrFI",
             "percent": 100,
-            "cc": 0
+            "cc": "COS"
+        },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNACeCX9NUwjLPgak?invite=cr-MSxxbncsNDMyMzA3MjE0z",
+            "percent": 100,
+            "cc": "CBF"
         }
     ]
 }
