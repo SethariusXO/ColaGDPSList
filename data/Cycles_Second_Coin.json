@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=JbT492i8zas",
     "percentToQualify": "100",
     "length": "0m:15s",
-    "enjoyment": "5/10",
-    "victors": "11",
+    "enjoyment": "5.06/10",
+    "victors": "12",
     "tags": "Short, Timings, Ship",
     "pack": "Cycles Coin Pack",
     "records": [
@@ -78,6 +78,12 @@
         {
             "user": "AR 120",
             "link": "https://medal.tv/games/requested/clips/nNwo9JpSnwL7AIAeH?invite=cr-MSx4WU8sODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "COS" 
+        },
+        {
+            "user": "ProjectGeometry 144",
+            "link": "https://youtu.be/MG8GFlHFlW8",
             "percent": 100,
             "cc": "COS" 
         }
