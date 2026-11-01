@@ -5,7 +5,7 @@
     "creators": ["SDN5"],
     "verifier": "Zqur 180",
     "verification": "https://www.youtube.com/watch?v=Fa0kU6C0MYk&t=66s",
-    "percentToQualify": "61",
+    "percentToQualify": "100",
     "length": "0m:36s",
     "enjoyment": "7.33/10",
     "victors": "5",
@@ -15,31 +15,31 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=o8dy0Wna2-E",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "ErrorWinters 240",
             "link": "https://www.youtube.com/watch?v=cMCzfAcsNvc&t=63s",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
             "user": "LIMBO 75",
             "link": "https://medal.tv/games/geometry-dash/clips/nkm5PzvtB537CBBTt?invite=cr-MSxCN2ssNTk5NjUyMTQ2",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nluCldjLGsyWQSnva?invite=cr-MSxLTnMsNDMyMzA3MjE0",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
         {
             "user": "Lucas531 170",
             "link": "https://www.youtube.com/watch?v=bBNSA_gMbyk",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         }
     ]
 }
