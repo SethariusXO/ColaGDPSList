@@ -21,7 +21,7 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=q-4OpAnzAfY",
             "percent": 100,
-            "cc": "P"
+            "cc": "COS"
         },
             {
                 "user": "Michael Storen 240",
@@ -75,6 +75,12 @@
         {
             "user": "AR 120",
             "link": "https://medal.tv/ru/games/requested/clips/nJahAPkBmid3S3PK4?invite=cr-MSwyQ3MsODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "Yoink 240",
+            "link": "https://youtu.be/JO1CCQLtkIs",
             "percent": 100,
             "cc": "CBF"
         }
