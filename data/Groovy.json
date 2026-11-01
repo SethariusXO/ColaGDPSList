@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=LzW3me6t1js",
     "percentToQualify": "100",
     "length": "0m:38s",
-    "enjoyment": "8/10",
-    "victors": "2",
+    "enjoyment": "8.5/10",
+    "victors": "3",
     "tags": "Medium, Timings, Learny, Overall",
     "records": [
         {
@@ -20,6 +20,12 @@
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nNnQmjD2N5sLJn4Rk?invite=cr-MSxpQW4sNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "ErrorWinters 240",
+            "link": "https://www.youtube.com/watch?v=wLGKHILYkpU",
             "percent": 100,
             "cc": "CBF"
         }
