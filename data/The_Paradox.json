@@ -7,15 +7,15 @@
     "verification": "https://www.youtube.com/watch?v=AqFkl74QTks",
     "percentToQualify": "100",
     "length": "1m:03s",
-    "enjoyment": "3.8/10",
-    "victors": "3",
+    "enjoyment": "3.17/10",
+    "victors": "5",
     "tags": "Long, Circles, Timings, Wave",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=Do63zN9sOn0",
             "percent": 100,
-            "cc": "P"
+            "cc": "COS"
         },
         {
             "user": "DavidShaft 240",
@@ -32,6 +32,12 @@
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nNnJeDMyz0eST_69j?invite=cr-MSx5QnEsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "yoink 240",
+            "link": "https://youtu.be/qQ2HIHf-tYQ",
             "percent": 100,
             "cc": "CBF"
         }
