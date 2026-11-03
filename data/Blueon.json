@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=4FjbFUoNglU",
     "percentToQualify": "100",
     "length": "1m:07s",
-    "enjoyment": "6.75/10",
-    "victors": "7",
+    "enjoyment": "7/10",
+    "victors": "8",
     "tags": "Long, Timings, Ship, Wave",
     "records": [
         {
@@ -50,6 +50,12 @@
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nNtAVUbx1DIrlD-S6?invite=cr-MSxIS2MsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "yoink 240",
+            "link": "https://youtu.be/rartqDA9K6g",
             "percent": 100,
             "cc": "CBF"
         }
