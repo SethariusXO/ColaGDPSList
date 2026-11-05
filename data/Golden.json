@@ -15,19 +15,25 @@
                 "user": "Lucas531 170",
                 "link": "https://www.youtube.com/watch?v=mKMDYKNrwN4",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "mayberlxck 240",
             "link": "https://youtu.be/g0yovMMh-4A",
             "percent": 100,
-            "cc": 0
+            "cc": "P"
         },
             {
                 "user": "ProjectGeometry 144",
                 "link": "https://www.youtube.com/watch?v=ze6AY2tO0Og",
                 "percent": 70,
-                "cc": 0
+                "cc": "P"
+            },
+            {
+                "user": "cheesedude 180",
+                "link": "https://medal.tv/games/geometry-dash/clips/nPBYwJ2Nm6gpzVuSL?invite=cr-MSxlVUcsNDMyMzA3MjE0",
+                "percent": 100,
+                "cc": "CBF"
             }
     ]
 }
