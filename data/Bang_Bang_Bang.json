@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=dpMDNplsY2Q",
     "percentToQualify": 40,
     "length": "0m:32s",
-    "enjoyment": "7/10",
-    "victors": "2",
+    "enjoyment": "5.75/10",
+    "victors": "3",
     "tags": "Medium, Fast Paced, High CPS, Overall",
         "records": [
             {
@@ -20,6 +20,12 @@
         {
                 "user": "Lucas531 170",
                 "link": "https://www.youtube.com/watch?v=x0agK_CFiBs",
+                "percent": 100,
+                "cc": "CBF"
+            },
+            {
+                "user": "AR 120",
+                "link": "https://medal.tv/games/requested/clips/nJzmqDuEBP5HyNrDa?invite=cr-MSxNb2UsODM1NTU4MzE1",
                 "percent": 100,
                 "cc": "CBF"
             }
