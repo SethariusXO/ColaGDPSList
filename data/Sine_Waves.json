@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=pF_kL3t-PlI",
     "percentToQualify": 100,
     "length": "0m:35s",
-    "enjoyment": "6.4/10",
-    "victors": "8",
+    "enjoyment": "6.09/10",
+    "victors": "9",
     "tags": "Medium, Circles, Chokepoints, Wave",
         "records": [
             {
@@ -21,7 +21,7 @@
                 "user": "Robsvault 120",
                 "link": "https://www.youtube.com/watch?v=r0iz0IbGqNo",
                 "percent": 100,
-                "cc": "P"
+                "cc": "COS"
             },
             {
                 "user": "Michael Storen 240",
@@ -56,6 +56,12 @@
             {
                 "user": "cheesedude 180",
                 "link": "https://medal.tv/games/geometry-dash/clips/nNoM1J1xX_erIh5E0?invite=cr-MSw2RjMsNDMyMzA3MjE0",
+                "percent": 100,
+                "cc": "CBF"
+            },
+            {
+                "user": "orgupups 180",
+                "link": "https://www.youtube.com/watch?v=pSvHFKAoPH8",
                 "percent": 100,
                 "cc": "CBF"
             }
