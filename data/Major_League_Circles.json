@@ -8,14 +8,20 @@
     "percentToQualify": 100,
     "length": "1m:45s",
     "enjoyment": "4/10",
-    "victors": "1",
+    "victors": "3.5",
     "tags": "Long, Circles, Nerve Control, Wave",
         "records": [
             {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=ezwBqIP6cCM",
             "percent": 100,
-            "cc": 0
-        }
+            "cc": "COS"
+        },
+            {
+                "user": "cheesedude 180",
+                "link": "https://medal.tv/games/geometry-dash/clips/nS7jmi63bIlZ3fqHB?invite=cr-MSxaNEUsNDMyMzA3MjE0",
+                "percent": 100,
+                "cc": "CBF"
+            }
     ]
 }
