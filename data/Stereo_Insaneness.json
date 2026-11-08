@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=zlkBGBJ3N9E",
     "percentToQualify": "100",
     "length": "1m:25s",
-    "enjoyment": "6.2/10",
+    "enjoyment": "5.83/10",
     "victors": "2",
     "tags": "Long, Timings, Chokepoints, Cube",
     "records": [
@@ -15,13 +15,13 @@
             "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=7havE6AcT-A",
             "percent": 100,
-            "cc": 3
+            "cc": "P"
         },
         {
-            "user": "LIMBO 75",
-            "link": "https://medal.tv/games/geometry-dash/clips/nmJXdhVgti62pSws9?invite=cr-MSxISnMsNTk5NjUyMTQ2",
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nS09TaWbzkZp6Qmim?invite=cr-MSxxZzksNDMyMzA3MjE0",
             "percent": 100,
-            "cc": "P"
+            "cc": "CBF"
         }
     ]
 }
