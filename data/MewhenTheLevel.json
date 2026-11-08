@@ -7,27 +7,27 @@
     "verification": "https://www.youtube.com/watch?v=T31FgpTv7B8",
     "percentToQualify": "100",
     "length": "1m:28s",
-    "enjoyment": "7.13/10",
-    "victors": "5",
+    "enjoyment": "6.89/10",
+    "victors": "6",
     "tags": "Long, Nerve Control, Overall",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=YKQpXE8o11E",
             "percent": 100,
-            "cc": 0
+            "cc": "COS"
         },
         {
                 "user": "Michael Storen 240",
                 "link": "https://www.youtube.com/watch?v=Y3ufFOFTg3U",
                 "percent": 100,
-                "cc": 0
+                "cc": "P"
             },
         {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/watch?v=42kq1_4e5KQ",
             "percent": 100,
-            "cc": 0
+            "cc": "CBF"
         },
         {
             "user": "Asta 60",
@@ -41,5 +41,11 @@
                 "percent": 100,
                 "cc": "CBF"
             }
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nS7fDNO3jCwBmD75O?invite=cr-MSxYU1MsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        }
     ]
 }
