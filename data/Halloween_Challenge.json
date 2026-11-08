@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "length": "0m:16s",
     "enjoyment": "6.8/10",
-    "victors": "4",
+    "victors": "5",
     "tags": "Short, Timings, Ship",
         "records": [
         {
@@ -34,6 +34,12 @@
                 "link": "https://medal.tv/games/requested/clips/nQx7vhkCxIZwMvBLa?invite=cr-MSx6R3YsODM1NTU4MzE1",
                 "percent": 100,
                 "cc": "CBS"
+            }
+            {
+               "user": "Frix 240",
+               "link": "https://medal.tv/games/requested/clips/nSWCrGKXtVLa9aBpT?invite=cr-MSxiMkssNjEwNTUxNjc4",
+               "percent": 100,
+               "cc": "CBF"             
             }
     ]
 }
