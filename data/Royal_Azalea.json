@@ -15,14 +15,14 @@
             "user": "vasi 120",
             "link": "https://youtu.be/4YsEmBsafg4?si=j7SusJ0c2w_mflVr",
             "percent": 100,
-            "cc": 0,
+            "cc": "P",
            "mobile": true
        },
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nS7q3QPUoqeiUlAVJ?invite=cr-MSwzRXEsNDMyMzA3MjE0",
             "percent": 100,
-            "cc": "CBF",
+            "cc": "CBF"
         }
     ]
 }
