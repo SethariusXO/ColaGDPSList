@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=MxS9ZaW2eEI",
     "percentToQualify": "100",
     "length": "0m:25s",
-    "enjoyment": "4.63/10",
-    "victors": "5",
+    "enjoyment": "4.56/10",
+    "victors": "6",
     "tags": "Short, Timings, Slow Paced, Robot",
     "records": [
         {
@@ -38,6 +38,12 @@
             {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nMCrCCMWt555UMA1D?invite=cr-MSwxR1EsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "ogrupups 180",
+            "link": "https://www.youtube.com/watch?v=Gi0iOAdDYpE",
             "percent": 100,
             "cc": "CBF"
         }
