@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "1m:17s",
     "enjoyment": "6/10",
-    "victors": "1",
+    "victors": "2",
     "tags": "Long, Learny, Flow, Nerve Control, Wave",
     "records": [
         {
@@ -17,6 +17,12 @@
             "percent": 100,
             "cc": 0,
            "mobile": true
-       }
+       },
+        {
+            "user": "cheesedude 180",
+            "link": "https://medal.tv/games/geometry-dash/clips/nS7q3QPUoqeiUlAVJ?invite=cr-MSwzRXEsNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF",
+        }
     ]
 }
