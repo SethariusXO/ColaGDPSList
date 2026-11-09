@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=LzW3me6t1js",
     "percentToQualify": "100",
     "length": "0m:38s",
-    "enjoyment": "8.5/10",
-    "victors": "3",
+    "enjoyment": "8/10",
+    "victors": "4",
     "tags": "Medium, Timings, Learny, Overall",
     "records": [
         {
@@ -28,6 +28,12 @@
             "link": "https://www.youtube.com/watch?v=wLGKHILYkpU",
             "percent": 100,
             "cc": "CBF"
+        },
+        {
+            "user": "AR 120",
+            "link": "https://medal.tv/games/requested/clips/nThjYG7UzuWHTIpiu?invite=cr-MSxqRXQsODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "COS"
         }
     ]
 }
