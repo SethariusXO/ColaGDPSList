@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=0SPJpzW4xCQ",
     "percentToQualify": "64",
     "length": "1m:10s",
-    "enjoyment": "8/10",
+    "enjoyment": "6.67/10",
     "victors": "3",
     "tags": "Long, Click Sync, Timings, Duals",
     "records": [
@@ -18,16 +18,22 @@
                 "cc": "CBF"
             },
         {
-            "user": "Robsvault 120",
-            "link": "https://www.youtube.com/watch?v=lkP8B2Kl-Wk",
-            "percent": 73,
-            "cc": "COS"
-        },
-        {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nNAyQzN0OZZCGmeR0?invite=cr-MSxGdVMsNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
+        },
+        {
+            "user": "AR 120",
+            "link": "https://medal.tv/games/requested/clips/nQx7vhkCxIZwMvBLa?invite=cr-MSx6R3YsODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "CBS" 
+        },
+        {
+            "user": "Robsvault 120",
+            "link": "https://www.youtube.com/watch?v=lkP8B2Kl-Wk",
+            "percent": 73,
+            "cc": "COS"
         }
     ]
 }
