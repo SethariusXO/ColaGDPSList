@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=Zfhb6bdvPgE",
     "percentToQualify": 100,
     "length": "0m:19s",
-    "enjoyment": "6.1/10",
-    "victors": "5",
+    "enjoyment": "6.18/10",
+    "victors": "6",
     "tags": "Short, High CPS, Wave",
         "records": [
         {
@@ -39,6 +39,12 @@
             {
                 "user": "ErrorWinters 240",
                 "link": "https://youtu.be/ymUZs-2_nAI",
+                "percent": 100,
+                "cc": "CBF"
+            },
+            {
+                "user": "vorvexy 240",
+                "link": "https://medal.tv/games/geometry-dash/clips/nUAhRYZUfYq2BwUrs?invite=cr-MSxUVjEsMzczNDI3NDM2",
                 "percent": 100,
                 "cc": "CBF"
             }
