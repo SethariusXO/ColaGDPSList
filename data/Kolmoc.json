@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=DvKASB9y4YU",
     "percentToQualify": 45,
     "length": "1m:27s",
-    "enjoyment": "N/A",
-    "victors": "0",
+    "enjoyment": "4.67/10",
+    "victors": "3",
     "tags": "Long, Fast-Paced, Ship, Wave",
         "records": [
             {
@@ -22,6 +22,12 @@
                 "link": "https://medal.tv/ru/games/requested/clips/nSWTdJ1mhE-_RXmvx?invite=cr-MSxES2EsNjEwNTUxNjc4",
                 "percent": 100,
                 "cc": "CBF"
+            },
+            {
+                "user": "AR 120",
+                "link": "https://medal.tv/games/imported-clips/clips/nUgn4wShv8lMMI2cZ?invite=cr-MSw3YU8sODM1NTU4MzE1",
+                "percent": 100,
+                "cc": "CBS"
             }
     ]
 }
