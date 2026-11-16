@@ -7,15 +7,15 @@
     "verification": "https://www.youtube.com/watch?v=9e7NDLV0CTE",
     "percentToQualify": 100,
     "length": "0m:17s",
-    "enjoyment": "6.55/10",
-    "victors": "7",
+    "enjoyment": "6.42/10",
+    "victors": "8",
     "tags": "Short, Flow, Ship",
         "records": [
             {
             "user": "ogrupups 180",
             "link": "https://www.youtube.com/watch?v=Zd35o_pKXbo",
             "percent": 100,
-            "cc": "P"
+            "cc": "CBF"
         },
             {
                 "user": "DavidShaft 240",
@@ -39,7 +39,7 @@
             "user": "ErrorWinters 240",
             "link": "https://www.youtube.com/watch?v=6s9CcFx-iIU&t=285s",
             "percent": 100,
-            "cc": "P"
+            "cc": "COS"
             },
             {
                 "user": "ProjectGeometry 144",
@@ -52,6 +52,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nMCuzqsCMfw8qy8fc?invite=cr-MSxqRVIsNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
-        }
+        },
+            {
+                "user": "Lucas531 170",
+                "link": "https://youtu.be/xqSHP4-ohBY",
+                "percent": 100,
+                "cc": "CBF"
+            }
     ]
 }
