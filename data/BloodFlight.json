@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=XFjuZTpQmjg",
     "percentToQualify": "100",
     "length": "0m:15s",
-    "enjoyment": "8.67/10",
-    "victors": "2",
+    "enjoyment": "7.75/10",
+    "victors": "3",
     "tags": "Short, Ship",
     "records": [
         {
@@ -20,6 +20,12 @@
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/geometry-dash/clips/nNUpGGYkn1344HEpo?invite=cr-MSx1YUssNDMyMzA3MjE0",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "Lucas531 170",
+            "link": "https://youtu.be/sC8IU4pjPu8",
             "percent": 100,
             "cc": "CBF"
         }
