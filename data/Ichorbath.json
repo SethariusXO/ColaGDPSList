@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "length": "0m:17s",
     "enjoyment": "6.42/10",
-    "victors": "8",
+    "victors": "7",
     "tags": "Short, Flow, Ship",
         "records": [
             {
@@ -20,12 +20,6 @@
             {
                 "user": "DavidShaft 240",
                 "link": "https://www.youtube.com/watch?v=6NaxApc69og",
-                "percent": 100,
-                "cc": "P"
-            },
-            {
-                "user": "Astro 144",
-                "link": "https://youtu.be/0qTLLX6SS7I?si=Y250EIFvC056yNc4",
                 "percent": 100,
                 "cc": "P"
             },
