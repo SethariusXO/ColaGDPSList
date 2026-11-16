@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:15s",
     "enjoyment": "4.76/10",
-    "victors": "13",
+    "victors": "12",
     "tags": "Short, Timings, Ship",
     "pack": "Cycles Coin Pack",
     "records": [
@@ -49,13 +49,6 @@
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": "P"
-        },
-        {
-            "user": "FalseTeam 60",
-            "link": "https://streamable.com/tzikbw",
-            "percent": 100,
-            "cc": "P",
-            "mobile": true
         },
         {
                 "user": "Michael Storen 240",
