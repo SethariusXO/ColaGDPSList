@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:13s",
     "enjoyment": "7.25/10",
-    "victors": "10",
+    "victors": "9",
     "tags": "Short, Timings, Overall",
     "records": [
       {
@@ -16,13 +16,6 @@
             "link": "https://www.youtube.com/watch?v=7A3XlQhOhfo",
             "percent": 100,
             "cc": "P"
-        },
-        {
-            "user": "ooink 120",
-            "link": "https://www.youtube.com/shorts/b1CCKXphX4Q",
-            "percent": 100,
-            "cc": "P",
-            "mobile": true
         },
         {
             "user": "ogrupups 180",
