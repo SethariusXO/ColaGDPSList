@@ -7,13 +7,19 @@
     "verification": "https://medal.tv/games/requested/clips/nLBpFh0Ug-keFNMcr?invite=cr-MSxXS3MsODM1NTU4MzE1",
     "percentToQualify": "100",
     "length": "0m:40s",
-    "enjoyment": "8/10",
-    "victors": "1",
+    "enjoyment": "7.33/10",
+    "victors": "2",
     "tags": "Medium, Fast-Paced, Wave",
     "records": [
         {
             "user": "cheesedude 180",
             "link": "https://medal.tv/games/requested/clips/nLBlVEkAgOLH7dL7_?invite=cr-MSxGMWYsODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "CBF"
+        },
+        {
+            "user": "Lucas531 170",
+            "link": "https://youtu.be/YAbg93J8Fxo",
             "percent": 100,
             "cc": "CBF"
         }
