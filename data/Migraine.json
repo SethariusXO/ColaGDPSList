@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=kOE5XFst5nI&t=33s",
     "percentToQualify": 59,
     "length": "0m:21s",
-    "enjoyment": "5.5/10",
-    "victors": "1",
+    "enjoyment": "4.67/10",
+    "victors": "2",
     "tags": "Short, Timings, Wave",
         "records": [
             {
@@ -16,6 +16,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nTwX4oijiboOYeCOw?invite=cr-MSxEWTYsNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
-        }
+        },
+            {
+                "user": "Lucas531 170",
+                "link": "https://youtu.be/ZFU7okh-gB4",
+                "percent": 100,
+                "cc": "CBF"
+            }
     ]
 }
