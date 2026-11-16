@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:40s",
     "enjoyment": "4.91/10",
-    "victors": "12",
+    "victors": "11",
     "tags": "Medium, Timings, Overall",
     "records": [
         {
@@ -39,12 +39,6 @@
         {
             "user": "victor 240",
             "link": "https://youtu.be/sCbyRTald6I",
-            "percent": 100,
-            "cc": "P"
-        },
-        {
-            "user": "Astro 144",
-            "link": "https://youtu.be/IgoLlfGx85s?si=5FAnP4omnCaCfRGA",
             "percent": 100,
             "cc": "P"
         },
