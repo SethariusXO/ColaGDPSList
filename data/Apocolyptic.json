@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "length": "0m:11s",
     "enjoyment": "5.92/10",
-    "victors": "15",
+    "victors": "14",
     "tags": "Short, Timings, Cube",
     "pack": "Old Top 3 Pack",
     "records": [
@@ -85,13 +85,6 @@
             "link": "https://www.youtube.com/watch?v=sn3ksJWNoXU",
             "percent": 100,
             "cc": "P"
-        },
-        {
-            "user": "FalseTeam 60",
-            "link": "https://streamable.com/llv9a9",
-            "percent": 100,
-            "cc": "P",
-            "mobile": true
         },
         {
             "user": "cheesedude 180",
