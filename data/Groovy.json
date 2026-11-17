@@ -7,15 +7,15 @@
     "verification": "https://www.youtube.com/watch?v=LzW3me6t1js",
     "percentToQualify": "100",
     "length": "0m:38s",
-    "enjoyment": "8/10",
-    "victors": "4",
+    "enjoyment": "8.17/10",
+    "victors": "5",
     "tags": "Medium, Timings, Learny, Overall",
     "records": [
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=5PLiydQuBF8",
             "percent": 100,
-            "cc": "P"
+            "cc": "COS"
         },
         {
             "user": "cheesedude 180",
@@ -32,6 +32,12 @@
         {
             "user": "AR 120",
             "link": "https://medal.tv/games/requested/clips/nThjYG7UzuWHTIpiu?invite=cr-MSxqRXQsODM1NTU4MzE1",
+            "percent": 100,
+            "cc": "COS"
+        },
+        {
+            "user": "ProjectGeometry 144",
+            "link": "https://youtu.be/zdqdc4i1HlI?is=xRrB4SiK8uD1yFqg",
             "percent": 100,
             "cc": "COS"
         }
