@@ -7,8 +7,8 @@
     "verification": "https://youtu.be/wGA1lc2MuKw",
     "percentToQualify": "100",
     "length": "0m:49s",
-    "enjoyment": "7.17/10",
-    "victors": "3",
+    "enjoyment": "7.29/10",
+    "victors": "4",
     "tags": "Medium, Duals, Overall",
     "records": [
         {
@@ -28,6 +28,12 @@
             "link": "https://www.youtube.com/watch?v=pSvHFKAoPH8",
             "percent": 100,
             "cc": "CBF"
+        },
+        {
+            "user": "ProjectGeometry 144",
+            "link": "https://youtu.be/dBaLEsA-czI?is=tfpqY5TivpVnF64Y",
+            "percent": 100,
+            "cc": "COS"
         }
     ]
 }
