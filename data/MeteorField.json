@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=-2fazu4a0fw",
     "percentToQualify": 100,
     "length": "1m:07s",
-    "enjoyment": "5.57/10",
-    "victors": "4",
+    "enjoyment": "5.88/10",
+    "victors": "5",
     "tags": "Long, Fast Paced, Overall",
         "records": [
             {
@@ -34,6 +34,12 @@
                 "link": "https://www.youtube.com/watch?v=pSvHFKAoPH8",
                 "percent": 100,
                 "cc": "CBF"
+            },
             }
+                "user": "ProjectGeometry 144",
+                "link": "https://youtu.be/JzSJUmlA8Z4?is=vU7XWQ9sMhGNUS1S",
+                "percent": 100,
+                "cc": "COS"
+            {
     ]
 }
