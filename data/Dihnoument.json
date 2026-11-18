@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=GzsN-lam9ZQ",
     "percentToQualify": "100",
     "length": "0m:15s",
-    "enjoyment": "5.94/10",
+    "enjoyment": "6.06/10",
     "victors": "11",
     "tags": "Short, Nerve Control, Wave",
     "records": [
@@ -15,7 +15,7 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=B469eng_8AA",
             "percent": 100,
-            "cc": "CBF"
+            "cc": "COS"
         },
         {
             "user": "IceOweni 60",
@@ -52,7 +52,7 @@
             "user": "Lucas531 170",
             "link": "https://www.youtube.com/watch?v=2dK7JQ8WnIY&list=PLMBv-prjuyciloFUcK77Ac60wnUGuqVCe&index=3",
             "percent": 100,
-            "cc": "P"
+            "cc": "CBF"
         },
             {
                 "user": "vecspi 60",
@@ -71,6 +71,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nNnUZzGHHKP4NkRCW?invite=cr-MSxHTngsNDMyMzA3MjE0",
             "percent": 100,
             "cc": "CBF"
+        },
+        {
+            "user": "ProjectGeometry 144",
+            "link": "https://youtu.be/6o-XFgC_Zy0?is=lppwdvSd3TRqjU5z",
+            "percent": 100,
+            "cc": "COS"
         }
     ]
 }
